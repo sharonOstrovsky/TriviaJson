@@ -1,0 +1,2906 @@
+<DATA>
+
+	<ROW>
+		<id>1</id>
+		<categoria>0</categoria>
+		<descripcion>¿Qué hace el ordenador si pulsa Control + Z?</descripcion>
+		<nivel>1</nivel>
+		<opciona>Deshacer</opciona>
+		<opcionb>Copiar</opcionb>
+		<opcionc>Pegar</opcionc>
+		<opcion_correcta>Deshacer</opcion_correcta>
+		<opciond>Cortar</opciond>
+	</ROW>
+
+	<ROW>
+		<id>2</id>
+		<categoria>0</categoria>
+		<descripcion>¿Cuál es la página más visitada en el mundo?</descripcion>
+		<nivel>1</nivel>
+		<opciona>Facebook</opciona>
+		<opcionb>Mercado Libre</opcionb>
+		<opcionc>Google</opcionc>
+		<opcion_correcta>Google</opcion_correcta>
+		<opciond>Youtube</opciond>
+	</ROW>
+
+	<ROW>
+		<id>3</id>
+		<categoria>0</categoria>
+		<descripcion>¿Con qué app se puede hacer una videoconferencia?</descripcion>
+		<nivel>1</nivel>
+		<opciona>Zoom</opciona>
+		<opcionb>Meet</opcionb>
+		<opcionc>Todas las anteriores</opcionc>
+		<opcion_correcta>Todas las anteriores</opcion_correcta>
+		<opciond>Skype</opciond>
+	</ROW>
+
+	<ROW>
+		<id>4</id>
+		<categoria>0</categoria>
+		<descripcion>¿Cuál de estas no es una app para ver series?</descripcion>
+		<nivel>1</nivel>
+		<opciona>Crunchyroll</opciona>
+		<opcionb>Facebook</opcionb>
+		<opcionc>Netflix</opcionc>
+		<opcion_correcta>Facebook</opcion_correcta>
+		<opciond>Amazon prime</opciond>
+	</ROW>
+
+	<ROW>
+		<id>5</id>
+		<categoria>0</categoria>
+		<descripcion>¿Para qué sirve el teclado?</descripcion>
+		<nivel>1</nivel>
+		<opciona>Digitar datos</opciona>
+		<opcionb>Hablar</opcionb>
+		<opcionc>Escuchar música</opcionc>
+		<opcion_correcta>Digitar datos</opcion_correcta>
+		<opciond>Jugar Scrabble</opciond>
+	</ROW>
+
+	<ROW>
+		<id>6</id>
+		<categoria>0</categoria>
+		<descripcion>¿Qué porcentaje de adultos en Estados Unidos tenía un teléfono inteligente a principios del 2021?</descripcion>
+		<nivel>1</nivel>
+		<opciona>60%</opciona>
+		<opcionb>67%</opcionb>
+		<opcionc>74%</opcionc>
+		<opcion_correcta>85%</opcion_correcta>
+		<opciond>85%</opciond>
+	</ROW>
+
+	<ROW>
+		<id>7</id>
+		<categoria>0</categoria>
+		<descripcion>La tecnología sirve para:</descripcion>
+		<nivel>1</nivel>
+		<opciona>Jugar en computadora</opciona>
+		<opcionb>Resolver problemas</opcionb>
+		<opcionc>Todas las anteriores</opcionc>
+		<opcion_correcta>Todas las anteriores</opcion_correcta>
+		<opciond>Satisfacer necesidades</opciond>
+	</ROW>
+
+	<ROW>
+		<id>8</id>
+		<categoria>0</categoria>
+		<descripcion>¿Cuáles son sistemas operativos?</descripcion>
+		<nivel>1</nivel>
+		<opciona>MacOs</opciona>
+		<opcionb>Linux</opcionb>
+		<opcionc>Windows</opcionc>
+		<opcion_correcta>Todas las anteriores</opcion_correcta>
+		<opciond>Todas las anteriores</opciond>
+	</ROW>
+
+	<ROW>
+		<id>9</id>
+		<categoria>0</categoria>
+		<descripcion>¿Cúal de estos elementos es un periférico?</descripcion>
+		<nivel>1</nivel>
+		<opciona>Placa de video</opciona>
+		<opcionb>Mouse</opcionb>
+		<opcionc>Procesador</opcionc>
+		<opcion_correcta>Mouse</opcion_correcta>
+		<opciond>Memoria RAM</opciond>
+	</ROW>
+
+	<ROW>
+		<id>10</id>
+		<categoria>0</categoria>
+		<descripcion>¿Qué es un bitcoin?</descripcion>
+		<nivel>1</nivel>
+		<opciona>Un tipo de dato</opciona>
+		<opcionb>Un insecto</opcionb>
+		<opcionc>Moneda electrónica</opcionc>
+		<opcion_correcta>Moneda electrónica</opcion_correcta>
+		<opciond>Un juego</opciond>
+	</ROW>
+
+	<ROW>
+		<id>11</id>
+		<categoria>0</categoria>
+		<descripcion>¿Qué red social no tiene la función de subir historias?</descripcion>
+		<nivel>1</nivel>
+		<opciona>Instagram</opciona>
+		<opcionb>Facebook</opcionb>
+		<opcionc>Whatsapp</opcionc>
+		<opcion_correcta>Gmail</opcion_correcta>
+		<opciond>Gmail</opciond>
+	</ROW>
+
+	<ROW>
+		<id>12</id>
+		<categoria>0</categoria>
+		<descripcion>¿A partir de qué edad se puede abrir una cuenta en las redes sociales?</descripcion>
+		<nivel>1</nivel>
+		<opciona>10</opciona>
+		<opcionb>18</opcionb>
+		<opcionc>13</opcionc>
+		<opcion_correcta>13</opcion_correcta>
+		<opciond>21</opciond>
+	</ROW>
+
+	<ROW>
+		<id>13</id>
+		<categoria>0</categoria>
+		<descripcion>¿Cuál es la red social más usada en el mundo?</descripcion>
+		<nivel>1</nivel>
+		<opciona>Facebook</opciona>
+		<opcionb>Twitter</opcionb>
+		<opcionc>Instagram</opcionc>
+		<opcion_correcta>Facebook</opcion_correcta>
+		<opciond>Tiktok</opciond>
+	</ROW>
+
+	<ROW>
+		<id>14</id>
+		<categoria>0</categoria>
+		<descripcion>¿Qué hace el ordenador si pulsas Control + X?</descripcion>
+		<nivel>1</nivel>
+		<opciona>Deshacer</opciona>
+		<opcionb>Copiar</opcionb>
+		<opcionc>Pegar</opcionc>
+		<opcion_correcta>Cortar</opcion_correcta>
+		<opciond>Cortar</opciond>
+	</ROW>
+
+	<ROW>
+		<id>15</id>
+		<categoria>0</categoria>
+		<descripcion>¿Qué hace el ordenador si pulsas Control + C?</descripcion>
+		<nivel>1</nivel>
+		<opciona>Deshacer</opciona>
+		<opcionb>Copiar</opcionb>
+		<opcionc>Pegar</opcionc>
+		<opcion_correcta>Copiar</opcion_correcta>
+		<opciond>Cortar</opciond>
+	</ROW>
+
+	<ROW>
+		<id>16</id>
+		<categoria>0</categoria>
+		<descripcion>¿Cuál es el país con mayor desarrollo tecnológico en el 2022?</descripcion>
+		<nivel>2</nivel>
+		<opciona>Finlandia</opciona>
+		<opcionb>EEUU</opcionb>
+		<opcionc>Suiza</opcionc>
+		<opcion_correcta>Finlandia</opcion_correcta>
+		<opciond>China</opciond>
+	</ROW>
+
+	<ROW>
+		<id>17</id>
+		<categoria>0</categoria>
+		<descripcion>¿Quién fundó la red social Facebook?</descripcion>
+		<nivel>2</nivel>
+		<opciona>Elon Musk</opciona>
+		<opcionb>Steve Jobs</opcionb>
+		<opcionc> Mark Zuckerberg</opcionc>
+		<opcion_correcta>Mark Zuckerberg</opcion_correcta>
+		<opciond>Bill Gates</opciond>
+	</ROW>
+
+	<ROW>
+		<id>18</id>
+		<categoria>0</categoria>
+		<descripcion>¿Qué sistema numérico utiliza solo ceros y unos?</descripcion>
+		<nivel>2</nivel>
+		<opciona>Octal</opciona>
+		<opcionb>Romano</opcionb>
+		<opcionc>Decimal</opcionc>
+		<opcion_correcta>Binario</opcion_correcta>
+		<opciond> Binario</opciond>
+	</ROW>
+
+	<ROW>
+		<id>19</id>
+		<categoria>0</categoria>
+		<descripcion>¿Qué significa USB?</descripcion>
+		<nivel>2</nivel>
+		<opciona>Puerto de seriado universal</opciona>
+		<opcionb>Unidad de sistema</opcionb>
+		<opcionc>Puerto universal sistemático</opcionc>
+		<opcion_correcta>Puerto de seriado universal</opcion_correcta>
+		<opciond>Puerto de sistemas universales</opciond>
+	</ROW>
+
+	<ROW>
+		<id>20</id>
+		<categoria>0</categoria>
+		<descripcion>¿Qué significa OS en informática?</descripcion>
+		<nivel>2</nivel>
+		<opciona>Objeto sistemico</opciona>
+		<opcionb>Sistema operativo</opcionb>
+		<opcionc>Sistema observado</opcionc>
+		<opcion_correcta>Sistema operativo</opcion_correcta>
+		<opciond>Ninguna de las anteriores</opciond>
+	</ROW>
+
+	<ROW>
+		<id>21</id>
+		<categoria>0</categoria>
+		<descripcion>¿Cuál es el propósito del firewall?</descripcion>
+		<nivel>2</nivel>
+		<opciona>Transmitir información</opciona>
+		<opcionb>Apagar el fuego</opcionb>
+		<opcionc>Seguridad</opcionc>
+		<opcion_correcta>Seguridad</opcion_correcta>
+		<opciond>Ninguna de las anteriores</opciond>
+	</ROW>
+
+	<ROW>
+		<id>22</id>
+		<categoria>0</categoria>
+		<descripcion>¿Cuántos bits hay en un byte?</descripcion>
+		<nivel>2</nivel>
+		<opciona>8</opciona>
+		<opcionb>16</opcionb>
+		<opcionc>64</opcionc>
+		<opcion_correcta>8</opcion_correcta>
+		<opciond>4</opciond>
+	</ROW>
+
+	<ROW>
+		<id>23</id>
+		<categoria>0</categoria>
+		<descripcion>¿Firefox, Opera, Chrome, Safari y Explorer son tipos de qué?</descripcion>
+		<nivel>2</nivel>
+		<opciona>Plugins</opciona>
+		<opcionb>Paginas web</opcionb>
+		<opcionc>Comandos</opcionc>
+		<opcion_correcta>Web browsers</opcion_correcta>
+		<opciond>Web browsers</opciond>
+	</ROW>
+
+	<ROW>
+		<id>24</id>
+		<categoria>0</categoria>
+		<descripcion>¿Qué significan las siglas AI?</descripcion>
+		<nivel>2</nivel>
+		<opciona>Almacenamiento interno</opciona>
+		<opcionb>Inteligencia artificial</opcionb>
+		<opcionc>Andrómeda inteligente</opcionc>
+		<opcion_correcta>Inteligencia artificial</opcion_correcta>
+		<opciond>Artefacto interesante</opciond>
+	</ROW>
+
+	<ROW>
+		<id>25</id>
+		<categoria>0</categoria>
+		<descripcion>¿Qué es un bit?</descripcion>
+		<nivel>2</nivel>
+		<opciona>Un tipo de computadora</opciona>
+		<opcionb>Teclas</opcionb>
+		<opcionc>Unidad más pequeña de almacenamiento</opcionc>
+		<opcion_correcta>Unidad más pequeña de almacenamiento</opcion_correcta>
+		<opciond>Un robot</opciond>
+	</ROW>
+
+	<ROW>
+		<id>26</id>
+		<categoria>0</categoria>
+		<descripcion>¿Quién utiliza el sistema binario?</descripcion>
+		<nivel>2</nivel>
+		<opciona>Los ordenadores</opciona>
+		<opcionb>Los animales</opcionb>
+		<opcionc>Los planetas</opcionc>
+		<opcion_correcta>Los ordenadores</opcion_correcta>
+		<opciond>Las plantas</opciond>
+	</ROW>
+
+	<ROW>
+		<id>27</id>
+		<categoria>0</categoria>
+		<descripcion>¿Para qué se utiliza Discord?</descripcion>
+		<nivel>2</nivel>
+		<opciona>Formar comunidades</opciona>
+		<opcionb>Chat de texto	</opcionb>
+		<opcionc>Chat de voz</opcionc>
+		<opcion_correcta>Todas las anteriores</opcion_correcta>
+		<opciond>Todas las anteriores</opciond>
+	</ROW>
+
+	<ROW>
+		<id>28</id>
+		<categoria>0</categoria>
+		<descripcion>¿Qué nombre posee el logo de una manzana mordida?</descripcion>
+		<nivel>2</nivel>
+		<opciona>Windows</opciona>
+		<opcionb>Microsoft</opcionb>
+		<opcionc>Apple</opcionc>
+		<opcion_correcta>Apple</opcion_correcta>
+		<opciond>Linux</opciond>
+	</ROW>
+
+	<ROW>
+		<id>29</id>
+		<categoria>0</categoria>
+		<descripcion>El software es un conjunto de...</descripcion>
+		<nivel>2</nivel>
+		<opciona>Componentes físicos de la computadora</opciona>
+		<opcionb>Programas o aplicaciones</opcionb>
+		<opcionc>Empresas</opcionc>
+		<opcion_correcta>Programas o aplicaciones</opcion_correcta>
+		<opciond>Países</opciond>
+	</ROW>
+
+	<ROW>
+		<id>30</id>
+		<categoria>0</categoria>
+		<descripcion>El hardware es un conjunto de...</descripcion>
+		<nivel>2</nivel>
+		<opciona>Empresas</opciona>
+		<opcionb>Países</opcionb>
+		<opcionc>Componentes virtuales de la computadora</opcionc>
+		<opcion_correcta>Componentes físicos de la computadora</opcion_correcta>
+		<opciond>Componentes físicos de la computadora</opciond>
+	</ROW>
+
+	<ROW>
+		<id>31</id>
+		<categoria>0</categoria>
+		<descripcion>¿Quién inventó el teléfono móvil?</descripcion>
+		<nivel>3</nivel>
+		<opciona>Martin Cooper</opciona>
+		<opcionb>Tim Cook</opcionb>
+		<opcionc>Pekka Lundmark</opcionc>
+		<opcion_correcta>Martin Cooper</opcion_correcta>
+		<opciond>Ren Zhengfei</opciond>
+	</ROW>
+
+	<ROW>
+		<id>32</id>
+		<categoria>0</categoria>
+		<descripcion>¿En qué año se creó la primera computadora?</descripcion>
+		<nivel>3</nivel>
+		<opciona>2020</opciona>
+		<opcionb>1991</opcionb>
+		<opcionc>1833</opcionc>
+		<opcion_correcta>1833</opcion_correcta>
+		<opciond>1899</opciond>
+	</ROW>
+
+	<ROW>
+		<id>33</id>
+		<categoria>0</categoria>
+		<descripcion>¿Quién creó Google?</descripcion>
+		<nivel>3</nivel>
+		<opciona>Mark Zuckerberg</opciona>
+		<opcionb>Larry Page y Sergey Brin</opcionb>
+		<opcionc>Bill Gates</opcionc>
+		<opcion_correcta>Larry Page y Sergey Brin</opcion_correcta>
+		<opciond>Eduardo Saverin</opciond>
+	</ROW>
+
+	<ROW>
+		<id>34</id>
+		<categoria>0</categoria>
+		<descripcion>¿En qué año estuvo disponible por primera vez el iPhone?</descripcion>
+		<nivel>3</nivel>
+		<opciona>2005</opciona>
+		<opcionb>2007</opcionb>
+		<opcionc>2006</opcionc>
+		<opcion_correcta>2007</opcion_correcta>
+		<opciond>2023</opciond>
+	</ROW>
+
+	<ROW>
+		<id>35</id>
+		<categoria>0</categoria>
+		<descripcion>¿Junto a quién Bill Gates fundó Microsoft?</descripcion>
+		<nivel>3</nivel>
+		<opciona>Einstein</opciona>
+		<opcionb>Lee Byung-Chul</opcionb>
+		<opcionc>Paul Allen</opcionc>
+		<opcion_correcta>Paul Allen</opcion_correcta>
+		<opciond>Bad Bunny</opciond>
+	</ROW>
+
+	<ROW>
+		<id>36</id>
+		<categoria>0</categoria>
+		<descripcion>¿Qué compañía es famosa por tener autos eléctricos?</descripcion>
+		<nivel>3</nivel>
+		<opciona>Chevrolet</opciona>
+		<opcionb>Ford</opcionb>
+		<opcionc>Mazda</opcionc>
+		<opcion_correcta>Tesla</opcion_correcta>
+		<opciond>Tesla</opciond>
+	</ROW>
+
+	<ROW>
+		<id>37</id>
+		<categoria>0</categoria>
+		<descripcion>¿Nano, Shuffle, Classic y Touch son versiones de qué dispositivo?</descripcion>
+		<nivel>3</nivel>
+		<opciona>iPod</opciona>
+		<opcionb>iPhone</opcionb>
+		<opcionc>iMac</opcionc>
+		<opcion_correcta>iPod</opcion_correcta>
+		<opciond>Dron</opciond>
+	</ROW>
+
+	<ROW>
+		<id>38</id>
+		<categoria>0</categoria>
+		<descripcion>En términos de informática, ¿qué significa ROM?</descripcion>
+		<nivel>3</nivel>
+		<opciona>Read on memory</opciona>
+		<opcionb>Read only memory</opcionb>
+		<opcionc>Root of monitor</opcionc>
+		<opcion_correcta>Read only memory</opcion_correcta>
+		<opciond>Root only memory</opciond>
+	</ROW>
+
+	<ROW>
+		<id>39</id>
+		<categoria>0</categoria>
+		<descripcion>¿Qué significa www?</descripcion>
+		<nivel>3</nivel>
+		<opciona>World Wailer Web</opciona>
+		<opcionb>World Wide Web</opcionb>
+		<opcionc>Wireless World Web</opcionc>
+		<opcion_correcta>World Wide Web</opcion_correcta>
+		<opciond>Web World Wakanda</opciond>
+	</ROW>
+
+	<ROW>
+		<id>40</id>
+		<categoria>0</categoria>
+		<descripcion>¿Cúal es la distribución de Linux más usada?</descripcion>
+		<nivel>3</nivel>
+		<opciona>Kali Linux</opciona>
+		<opcionb>Debian</opcionb>
+		<opcionc>CentOs</opcionc>
+		<opcion_correcta>Ubuntu</opcion_correcta>
+		<opciond>Ubuntu</opciond>
+	</ROW>
+
+	<ROW>
+		<id>41</id>
+		<categoria>0</categoria>
+		<descripcion>Steve Jobs y Steve Wozniak eran conocidos fundadores de Apple Inc., pero había un tercer fundador. ¿Cómo se llamaba?</descripcion>
+		<nivel>3</nivel>
+		<opciona>Paul Allen</opciona>
+		<opcionb>Chris Knight</opcionb>
+		<opcionc>Ronald Wayne</opcionc>
+		<opcion_correcta>Ronald Wayne</opcion_correcta>
+		<opciond>Linus Torvalds</opciond>
+	</ROW>
+
+	<ROW>
+		<id>42</id>
+		<categoria>0</categoria>
+		<descripcion>¿Quién inventó la computadora?</descripcion>
+		<nivel>3</nivel>
+		<opciona>Charles Babbage</opciona>
+		<opcionb>Alan Turing</opcionb>
+		<opcionc>Konrad Zuse</opcionc>
+		<opcion_correcta>Charles Babbage</opcion_correcta>
+		<opciond>Joseph Marie</opciond>
+	</ROW>
+
+	<ROW>
+		<id>43</id>
+		<categoria>0</categoria>
+		<descripcion>¿Qué es la RAM?</descripcion>
+		<nivel>3</nivel>
+		<opciona>Memoria de acceso aleatoria</opciona>
+		<opcionb>Memoria de solo lectura</opcionb>
+		<opcionc>Memoria de almacenamiento aleatorio</opcionc>
+		<opcion_correcta>Memoria de acceso aleatoria</opcion_correcta>
+		<opciond>Rápido almacenamiento mental</opciond>
+	</ROW>
+
+	<ROW>
+		<id>44</id>
+		<categoria>0</categoria>
+		<descripcion>¿Qué significa las siglas VR?</descripcion>
+		<nivel>3</nivel>
+		<opciona>Virtual Read</opciona>
+		<opcionb>Virtual Reality</opcionb>
+		<opcionc>Vision Reality</opcionc>
+		<opcion_correcta>Virtual Reality</opcion_correcta>
+		<opciond>Vision Read</opciond>
+	</ROW>
+
+	<ROW>
+		<id>45</id>
+		<categoria>0</categoria>
+		<descripcion>¿Qué tipo de archivo es .mov?</descripcion>
+		<nivel>3</nivel>
+		<opciona>Virus</opciona>
+		<opcionb>Película o animación</opcionb>
+		<opcionc>Imagen</opcionc>
+		<opcion_correcta>Película o animación</opcion_correcta>
+		<opciond>Ninguna de las anteriores</opciond>
+	</ROW>
+
+	<ROW>
+		<id>46</id>
+		<categoria>0</categoria>
+		<descripcion>¿Qué significa CPU?</descripcion>
+		<nivel>3</nivel>
+		<opciona>Computing power unit</opciona>
+		<opcionb>Central power unit</opcionb>
+		<opcionc>Central processing unit</opcionc>
+		<opcion_correcta>Central processing unit</opcion_correcta>
+		<opciond>Comand power unit</opciond>
+	</ROW>
+
+	<ROW>
+		<id>47</id>
+		<categoria>1</categoria>
+		<descripcion>¿Cuál es el planeta más grande del sistema solar?</descripcion>
+		<nivel>1</nivel>
+		<opciona>Júpiter</opciona>
+		<opcionb>Luna</opcionb>
+		<opcionc>Sol</opcionc>
+		<opcion_correcta>Júpiter</opcion_correcta>
+		<opciond>Venus</opciond>
+	</ROW>
+
+	<ROW>
+		<id>48</id>
+		<categoria>1</categoria>
+		<descripcion>¿Cuál es el animal más grande del mundo?</descripcion>
+		<nivel>1</nivel>
+		<opciona>Elefante</opciona>
+		<opcionb>Ballena azul</opcionb>
+		<opcionc>Jirafa</opcionc>
+		<opcion_correcta>Ballena azul</opcion_correcta>
+		<opciond>Rinoceronte</opciond>
+	</ROW>
+
+	<ROW>
+		<id>49</id>
+		<categoria>1</categoria>
+		<descripcion>Los tiburones pertenecen a la familia de los ...</descripcion>
+		<nivel>1</nivel>
+		<opciona>Mamíferos</opciona>
+		<opcionb>Peces</opcionb>
+		<opcionc>Reptiles</opcionc>
+		<opcion_correcta>Peces</opcion_correcta>
+		<opciond>Anfibios</opciond>
+	</ROW>
+
+	<ROW>
+		<id>50</id>
+		<categoria>1</categoria>
+		<descripcion>¿Qué planeta se conoce como “planeta rojo”?</descripcion>
+		<nivel>1</nivel>
+		<opciona>Plutón</opciona>
+		<opcionb>Saturno</opcionb>
+		<opcionc>Marte</opcionc>
+		<opcion_correcta>Marte</opcion_correcta>
+		<opciond>Tierra</opciond>
+	</ROW>
+
+	<ROW>
+		<id>51</id>
+		<categoria>1</categoria>
+		<descripcion>¿Cuántos sabores primarios tenemos?</descripcion>
+		<nivel>1</nivel>
+		<opciona>5</opciona>
+		<opcionb>4</opcionb>
+		<opcionc>6</opcionc>
+		<opcion_correcta>5</opcion_correcta>
+		<opciond>1</opciond>
+	</ROW>
+
+	<ROW>
+		<id>52</id>
+		<categoria>1</categoria>
+		<descripcion>¿Cuál es el elemento presente en mayor proporción cuando respiramos? </descripcion>
+		<nivel>1</nivel>
+		<opciona>Agua</opciona>
+		<opcionb>Nitrógeno</opcionb>
+		<opcionc>Dióxido de carbono</opcionc>
+		<opcion_correcta>Nitrógeno</opcion_correcta>
+		<opciond>Oxígeno</opciond>
+	</ROW>
+
+	<ROW>
+		<id>53</id>
+		<categoria>1</categoria>
+		<descripcion>¿Cuáles son los colores primarios?</descripcion>
+		<nivel>1</nivel>
+		<opciona>Morado, rojo, verde</opciona>
+		<opcionb>Amarillo, azul y rojo</opcionb>
+		<opcionc>Amarillo, verde y rojo</opcionc>
+		<opcion_correcta>Amarillo, azul y rojo</opcion_correcta>
+		<opciond>Amarillo, azul y negro</opciond>
+	</ROW>
+
+	<ROW>
+		<id>54</id>
+		<categoria>1</categoria>
+		<descripcion>Los delfines pertenecen a la famila de los ...</descripcion>
+		<nivel>1</nivel>
+		<opciona>Mamíferos</opciona>
+		<opcionb>Peces</opcionb>
+		<opcionc>Anfibio</opcionc>
+		<opcion_correcta>Mamíferos</opcion_correcta>
+		<opciond>Reptiles</opciond>
+	</ROW>
+
+	<ROW>
+		<id>55</id>
+		<categoria>1</categoria>
+		<descripcion>¿Qué animal es famoso por siempre caer de pie?</descripcion>
+		<nivel>1</nivel>
+		<opciona>Vaca</opciona>
+		<opcionb>Raton</opcionb>
+		<opcionc>Perro</opcionc>
+		<opcion_correcta>Gato</opcion_correcta>
+		<opciond>Gato</opciond>
+	</ROW>
+
+	<ROW>
+		<id>56</id>
+		<categoria>1</categoria>
+		<descripcion>¿Cómo se denomina el sonido realizado por las gallinas?</descripcion>
+		<nivel>1</nivel>
+		<opciona>Mugido</opciona>
+		<opcionb>Cacareo</opcionb>
+		<opcionc>Graznido</opcionc>
+		<opcion_correcta>Cacareo</opcion_correcta>
+		<opciond>Relincho</opciond>
+	</ROW>
+
+	<ROW>
+		<id>57</id>
+		<categoria>1</categoria>
+		<descripcion>¿Cuál es el componente principal del chocolate?</descripcion>
+		<nivel>1</nivel>
+		<opciona>Leche</opciona>
+		<opcionb>Azúcar</opcionb>
+		<opcionc>Cacao</opcionc>
+		<opcion_correcta>Cacao</opcion_correcta>
+		<opciond>Cafe</opciond>
+	</ROW>
+
+	<ROW>
+		<id>58</id>
+		<categoria>1</categoria>
+		<descripcion>¿Quién es el jugador con más Balones de Oro en el mundo?</descripcion>
+		<nivel>1</nivel>
+		<opciona>Lionel Messi</opciona>
+		<opcionb>Ricardo Arjona</opcionb>
+		<opcionc>Cristiano Ronaldo</opcionc>
+		<opcion_correcta>Lionel Messi</opcion_correcta>
+		<opciond>Kylian Mbappe</opciond>
+	</ROW>
+
+	<ROW>
+		<id>59</id>
+		<categoria>1</categoria>
+		<descripcion>¿Qué país tiene más copas mundiales de fútbol?</descripcion>
+		<nivel>1</nivel>
+		<opciona>Argentina</opciona>
+		<opcionb>Brasil</opcionb>
+		<opcionc>Francia</opcionc>
+		<opcion_correcta>Brasil</opcion_correcta>
+		<opciond>Italia</opciond>
+	</ROW>
+
+	<ROW>
+		<id>60</id>
+		<categoria>1</categoria>
+		<descripcion>¿Qué hueso protege el cerebro?</descripcion>
+		<nivel>1</nivel>
+		<opciona>Tibia</opciona>
+		<opcionb>Craneo</opcionb>
+		<opcionc>Femur</opcionc>
+		<opcion_correcta>Craneo</opcion_correcta>
+		<opciond>Escapula</opciond>
+	</ROW>
+
+	<ROW>
+		<id>61</id>
+		<categoria>1</categoria>
+		<descripcion>¿Cuántas cuerdas tiene una guitarra?</descripcion>
+		<nivel>1</nivel>
+		<opciona>5</opciona>
+		<opcionb>4</opcionb>
+		<opcionc>6</opcionc>
+		<opcion_correcta>6</opcion_correcta>
+		<opciond>7</opciond>
+	</ROW>
+
+	<ROW>
+		<id>62</id>
+		<categoria>1</categoria>
+		<descripcion>¿Cuál es el nombre científico del hombre?</descripcion>
+		<nivel>2</nivel>
+		<opciona>Homo sapiens</opciona>
+		<opcionb>Homo erectus</opcionb>
+		<opcionc>Homo ergaster</opcionc>
+		<opcion_correcta>Homo sapiens</opcion_correcta>
+		<opciond>Homo habilis</opciond>
+	</ROW>
+
+	<ROW>
+		<id>63</id>
+		<categoria>1</categoria>
+		<descripcion>La rana pertenece a la familia de los:</descripcion>
+		<nivel>2</nivel>
+		<opciona>Peces</opciona>
+		<opcionb>Reptiles</opcionb>
+		<opcionc>Anfibios</opcionc>
+		<opcion_correcta>Anfibios</opcion_correcta>
+		<opciond>Mamíferos</opciond>
+	</ROW>
+
+	<ROW>
+		<id>64</id>
+		<categoria>1</categoria>
+		<descripcion>El ornitorrinco pertenece a la familia de los: </descripcion>
+		<nivel>2</nivel>
+		<opciona>Reptiles</opciona>
+		<opcionb>Peces</opcionb>
+		<opcionc>Aves</opcionc>
+		<opcion_correcta>Mamíferos</opcion_correcta>
+		<opciond>Mamíferos</opciond>
+	</ROW>
+
+	<ROW>
+		<id>65</id>
+		<categoria>1</categoria>
+		<descripcion>¿Cuántos huesos tiene el cuerpo humano adulto?</descripcion>
+		<nivel>2</nivel>
+		<opciona>206</opciona>
+		<opcionb>300</opcionb>
+		<opcionc>250</opcionc>
+		<opcion_correcta>206</opcion_correcta>
+		<opciond>200</opciond>
+	</ROW>
+
+	<ROW>
+		<id>66</id>
+		<categoria>1</categoria>
+		<descripcion>¿Cómo se llama el sexto planeta del sistema solar?</descripcion>
+		<nivel>2</nivel>
+		<opciona>Tierra</opciona>
+		<opcionb>Saturno</opcionb>
+		<opcionc>Luna</opcionc>
+		<opcion_correcta>Saturno</opcion_correcta>
+		<opciond>Plutón</opciond>
+	</ROW>
+
+	<ROW>
+		<id>67</id>
+		<categoria>1</categoria>
+		<descripcion>¿En qué galaxia se encuentra la Tierra?</descripcion>
+		<nivel>2</nivel>
+		<opciona>Andrómeda V</opciona>
+		<opcionb>Galaxia Antenas</opcionb>
+		<opcionc>Vía Láctea</opcionc>
+		<opcion_correcta>Vía Láctea</opcion_correcta>
+		<opciond>Andrómeda I</opciond>
+	</ROW>
+
+	<ROW>
+		<id>68</id>
+		<categoria>1</categoria>
+		<descripcion>¿Qué significa el acrónimo OVNI?</descripcion>
+		<nivel>2</nivel>
+		<opciona>Objeto volador no identificado</opciona>
+		<opcionb>Objeto Volátil no identificado</opcionb>
+		<opcionc>Objeto Válido nunca incompleto</opcionc>
+		<opcion_correcta>Objeto volador no identificado</opcion_correcta>
+		<opciond>Objeto volador no imaginario</opciond>
+	</ROW>
+
+	<ROW>
+		<id>69</id>
+		<categoria>1</categoria>
+		<descripcion>¿Cuál es el hueso más largo del cuerpo humano?</descripcion>
+		<nivel>2</nivel>
+		<opciona>Tibia</opciona>
+		<opcionb>Peroné</opcionb>
+		<opcionc>Fémur</opcionc>
+		<opcion_correcta>Fémur</opcion_correcta>
+		<opciond>Escápula</opciond>
+	</ROW>
+
+	<ROW>
+		<id>70</id>
+		<categoria>1</categoria>
+		<descripcion>¿Cuántas patas tiene una araña?</descripcion>
+		<nivel>2</nivel>
+		<opciona>8</opciona>
+		<opcionb>6</opcionb>
+		<opcionc>10</opcionc>
+		<opcion_correcta>8</opcion_correcta>
+		<opciond>4</opciond>
+	</ROW>
+
+	<ROW>
+		<id>71</id>
+		<categoria>1</categoria>
+		<descripcion>¿Quién fue la monarca británica con más tiempo en el reinado?</descripcion>
+		<nivel>2</nivel>
+		<opciona>Alejandra Fiodorovna</opciona>
+		<opcionb>La princesa Diana</opcionb>
+		<opcionc>R'Bonney Gabriel</opcionc>
+		<opcion_correcta>La reina Isabel II</opcion_correcta>
+		<opciond>La reina Isabel II</opciond>
+	</ROW>
+
+	<ROW>
+		<id>72</id>
+		<categoria>1</categoria>
+		<descripcion>¿Cuál es el deporte nacional de Argentina?</descripcion>
+		<nivel>2</nivel>
+		<opciona>Voley</opciona>
+		<opcionb>El Pato</opcionb>
+		<opcionc>Basketball</opcionc>
+		<opcion_correcta>El Pato</opcion_correcta>
+		<opciond>Fútbol</opciond>
+	</ROW>
+
+	<ROW>
+		<id>73</id>
+		<categoria>1</categoria>
+		<descripcion>¿Cómo se llama la única especie de mamíferos que puede volar?</descripcion>
+		<nivel>2</nivel>
+		<opciona>Ornitorrinco</opciona>
+		<opcionb>Ñandu</opcionb>
+		<opcionc>Paloma</opcionc>
+		<opcion_correcta>Murcielago</opcion_correcta>
+		<opciond>Murcielago</opciond>
+	</ROW>
+
+	<ROW>
+		<id>74</id>
+		<categoria>1</categoria>
+		<descripcion>¿Qué ciencia se ocupa del clima?</descripcion>
+		<nivel>2</nivel>
+		<opciona>Lluviologia</opciona>
+		<opcionb>Meteorologia</opcionb>
+		<opcionc>Climatologia</opcionc>
+		<opcion_correcta>Meteorologia</opcion_correcta>
+		<opciond>Ciencias del cielo</opciond>
+	</ROW>
+
+	<ROW>
+		<id>75</id>
+		<categoria>1</categoria>
+		<descripcion>¿Qué fruto da el árbol de olivo?</descripcion>
+		<nivel>2</nivel>
+		<opciona>Aceituna</opciona>
+		<opcionb>Manzana</opcionb>
+		<opcionc>Guanabana</opcionc>
+		<opcion_correcta>Aceituna</opcion_correcta>
+		<opciond>Higo</opciond>
+	</ROW>
+
+	<ROW>
+		<id>76</id>
+		<categoria>1</categoria>
+		<descripcion>¿Cuál de estos es un planeta enano?</descripcion>
+		<nivel>2</nivel>
+		<opciona>Saturno</opciona>
+		<opcionb>Venus</opcionb>
+		<opcionc>Plutón</opcionc>
+		<opcion_correcta>Plutón</opcion_correcta>
+		<opciond>Tierra</opciond>
+	</ROW>
+
+	<ROW>
+		<id>77</id>
+		<categoria>1</categoria>
+		<descripcion>¿Quién fue el principal responsable de la caída de la monarquía rusa?</descripcion>
+		<nivel>3</nivel>
+		<opciona>Napoleón</opciona>
+		<opcionb>Anastasia</opcionb>
+		<opcionc>Rasputín</opcionc>
+		<opcion_correcta>Rasputín</opcion_correcta>
+		<opciond>Catalina II</opciond>
+	</ROW>
+
+	<ROW>
+		<id>78</id>
+		<categoria>1</categoria>
+		<descripcion>¿Qué científico propuso las tres leyes del movimiento?</descripcion>
+		<nivel>3</nivel>
+		<opciona>Isaac Newton</opciona>
+		<opcionb>Albert Einstein</opcionb>
+		<opcionc>Charles Darwin</opcionc>
+		<opcion_correcta>Isaac Newton</opcion_correcta>
+		<opciond>Robert Oppenheimer</opciond>
+	</ROW>
+
+	<ROW>
+		<id>79</id>
+		<categoria>1</categoria>
+		<descripcion>¿Cómo se llama la luna más grande de Saturno?</descripcion>
+		<nivel>3</nivel>
+		<opciona>Deimos</opciona>
+		<opcionb>Phobos</opcionb>
+		<opcionc>Titán</opcionc>
+		<opcion_correcta>Titán</opcion_correcta>
+		<opciond>Encelado</opciond>
+	</ROW>
+
+	<ROW>
+		<id>80</id>
+		<categoria>1</categoria>
+		<descripcion>¿Qué país tiene más medallas de oro olímpicas en natación?</descripcion>
+		<nivel>3</nivel>
+		<opciona>China</opciona>
+		<opcionb>EE.UU.</opcionb>
+		<opcionc>Reino Unido</opcionc>
+		<opcion_correcta>EE.UU.</opcion_correcta>
+		<opciond>Australia</opciond>
+	</ROW>
+
+	<ROW>
+		<id>81</id>
+		<categoria>1</categoria>
+		<descripcion>¿Cuál es el animal terrestre más rápido?</descripcion>
+		<nivel>3</nivel>
+		<opciona>Conejo</opciona>
+		<opcionb>Tigre</opcionb>
+		<opcionc>Avestruz</opcionc>
+		<opcion_correcta>Guepardo</opcion_correcta>
+		<opciond>Guepardo</opciond>
+	</ROW>
+
+	<ROW>
+		<id>82</id>
+		<categoria>1</categoria>
+		<descripcion>¿Cuál de estos animales no pertenece a la familia de los molusco?</descripcion>
+		<nivel>3</nivel>
+		<opciona>Cangrejo</opciona>
+		<opcionb>Caracol</opcionb>
+		<opcionc>Babosa</opcionc>
+		<opcion_correcta>Cangrejo</opcion_correcta>
+		<opciond>Pulpo</opciond>
+	</ROW>
+
+	<ROW>
+		<id>83</id>
+		<categoria>1</categoria>
+		<descripcion>¿Cuál de los siguientes no es un grupo sanguíneo?</descripcion>
+		<nivel>3</nivel>
+		<opciona>U</opciona>
+		<opcionb>0</opcionb>
+		<opcionc>A</opcionc>
+		<opcion_correcta>U</opcion_correcta>
+		<opciond>B</opciond>
+	</ROW>
+
+	<ROW>
+		<id>84</id>
+		<categoria>1</categoria>
+		<descripcion>Camarón que se duerme…</descripcion>
+		<nivel>3</nivel>
+		<opciona>tal astilla</opciona>
+		<opcionb>buena cara</opcionb>
+		<opcionc>se lo lleva la corriente</opcionc>
+		<opcion_correcta>se lo lleva la corriente</opcion_correcta>
+		<opciond>tiene 100 años de perdón</opciond>
+	</ROW>
+
+	<ROW>
+		<id>85</id>
+		<categoria>1</categoria>
+		<descripcion>No hay mal que dure…</descripcion>
+		<nivel>3</nivel>
+		<opciona>10 años</opciona>
+		<opcionb>100 años</opcionb>
+		<opcionc>1000 años</opcionc>
+		<opcion_correcta>100 años</opcion_correcta>
+		<opciond>1 año</opciond>
+	</ROW>
+
+	<ROW>
+		<id>86</id>
+		<categoria>1</categoria>
+		<descripcion>¿Quién inventó la bombilla de luz?</descripcion>
+		<nivel>3</nivel>
+		<opciona>Nikola Tesla</opciona>
+		<opcionb>Franklin Pope</opcionb>
+		<opcionc>Charles Batchelor</opcionc>
+		<opcion_correcta>Thomas Edison</opcion_correcta>
+		<opciond>Thomas Edison</opciond>
+	</ROW>
+
+	<ROW>
+		<id>87</id>
+		<categoria>1</categoria>
+		<descripcion>¿En qué año comenzó la Primera Guerra Mundial?</descripcion>
+		<nivel>3</nivel>
+		<opciona>1914</opciona>
+		<opcionb>1920</opcionb>
+		<opcionc>1950</opcionc>
+		<opcion_correcta>1914</opcion_correcta>
+		<opciond>1940</opciond>
+	</ROW>
+
+	<ROW>
+		<id>88</id>
+		<categoria>1</categoria>
+		<descripcion>¿Cuántas veces ha estado el hombre en la luna?</descripcion>
+		<nivel>3</nivel>
+		<opciona>3</opciona>
+		<opcionb>6</opcionb>
+		<opcionc>5</opcionc>
+		<opcion_correcta>6</opcion_correcta>
+		<opciond>1</opciond>
+	</ROW>
+
+	<ROW>
+		<id>89</id>
+		<categoria>1</categoria>
+		<descripcion>¿En qué año llegó Cristóbal Colón a América?</descripcion>
+		<nivel>3</nivel>
+		<opciona>1490</opciona>
+		<opcionb>1400</opcionb>
+		<opcionc>1492</opcionc>
+		<opcion_correcta>1492</opcion_correcta>
+		<opciond>1500</opciond>
+	</ROW>
+
+	<ROW>
+		<id>90</id>
+		<categoria>1</categoria>
+		<descripcion>¿Cuánto duró 'La Guerra de los Cien Años'?</descripcion>
+		<nivel>3</nivel>
+		<opciona>100 años</opciona>
+		<opcionb>140 años</opcionb>
+		<opcionc>102 años</opcionc>
+		<opcion_correcta>116 años</opcion_correcta>
+		<opciond>116 años</opciond>
+	</ROW>
+
+	<ROW>
+		<id>91</id>
+		<categoria>1</categoria>
+		<descripcion>¿Cuántos elementos hay en la tabla periódica?</descripcion>
+		<nivel>3</nivel>
+		<opciona>120 elementos</opciona>
+		<opcionb>140 elementos</opcionb>
+		<opcionc>105 elementos</opcionc>
+		<opcion_correcta>118 elementos</opcion_correcta>
+		<opciond>118 elementos</opciond>
+	</ROW>
+
+	<ROW>
+		<id>92</id>
+		<categoria>2</categoria>
+		<descripcion>¿Cuánto es siete al cuadrado?</descripcion>
+		<nivel>1</nivel>
+		<opciona>14</opciona>
+		<opcionb>28</opcionb>
+		<opcionc>49</opcionc>
+		<opcion_correcta>49</opcion_correcta>
+		<opciond>56</opciond>
+	</ROW>
+
+	<ROW>
+		<id>93</id>
+		<categoria>2</categoria>
+		<descripcion>¿Cuántos segundos hay en un día?</descripcion>
+		<nivel>1</nivel>
+		<opciona>300</opciona>
+		<opcionb>68400</opcionb>
+		<opcionc>86400</opcionc>
+		<opcion_correcta>86400</opcion_correcta>
+		<opciond>80000</opciond>
+	</ROW>
+
+	<ROW>
+		<id>94</id>
+		<categoria>2</categoria>
+		<descripcion>¿Cuántos pies hay en una milla?</descripcion>
+		<nivel>1</nivel>
+		<opciona>5280</opciona>
+		<opcionb>6080</opcionb>
+		<opcionc>5200</opcionc>
+		<opcion_correcta>5280</opcion_correcta>
+		<opciond>6000</opciond>
+	</ROW>
+
+	<ROW>
+		<id>95</id>
+		<categoria>2</categoria>
+		<descripcion>¿Cuánto es 8 + 8?</descripcion>
+		<nivel>1</nivel>
+		<opciona>17</opciona>
+		<opcionb>15</opcionb>
+		<opcionc>16</opcionc>
+		<opcion_correcta>16</opcion_correcta>
+		<opciond>20</opciond>
+	</ROW>
+
+	<ROW>
+		<id>96</id>
+		<categoria>2</categoria>
+		<descripcion>¿Cuánto vale PI?</descripcion>
+		<nivel>1</nivel>
+		<opciona>3,15</opciona>
+		<opcionb>3,14</opcionb>
+		<opcionc>3,2</opcionc>
+		<opcion_correcta>3,14</opcion_correcta>
+		<opciond>3,13</opciond>
+	</ROW>
+
+	<ROW>
+		<id>97</id>
+		<categoria>2</categoria>
+		<descripcion>¿Cuál es la representación gráfica del número nueve mil treinta y seis?</descripcion>
+		<nivel>1</nivel>
+		<opciona>9360</opciona>
+		<opcionb>90036</opcionb>
+		<opcionc>936</opcionc>
+		<opcion_correcta>9036</opcion_correcta>
+		<opciond>9036</opciond>
+	</ROW>
+
+	<ROW>
+		<id>98</id>
+		<categoria>2</categoria>
+		<descripcion>¿A cuántas unidades equivale 10 decenas de millares?</descripcion>
+		<nivel>1</nivel>
+		<opciona>100000 unidades</opciona>
+		<opcionb>10000 unidades</opcionb>
+		<opcionc>1000 unidades</opcionc>
+		<opcion_correcta>100000 unidades</opcion_correcta>
+		<opciond>100 unidades</opciond>
+	</ROW>
+
+	<ROW>
+		<id>99</id>
+		<categoria>2</categoria>
+		<descripcion>¿Qué número es trigésimo quinto?</descripcion>
+		<nivel>1</nivel>
+		<opciona>135</opciona>
+		<opcionb>25</opcionb>
+		<opcionc>35</opcionc>
+		<opcion_correcta>35</opcion_correcta>
+		<opciond>335</opciond>
+	</ROW>
+
+	<ROW>
+		<id>100</id>
+		<categoria>2</categoria>
+		<descripcion>¿Qué cantidad expresa el número romano V?</descripcion>
+		<nivel>1</nivel>
+		<opciona>Uno</opciona>
+		<opcionb>Cinco</opcionb>
+		<opcionc>Diez</opcionc>
+		<opcion_correcta>Cinco</opcion_correcta>
+		<opciond>Cincuenta</opciond>
+	</ROW>
+
+	<ROW>
+		<id>101</id>
+		<categoria>2</categoria>
+		<descripcion>¿Qué número resulta si se divide 56 entre 7?</descripcion>
+		<nivel>1</nivel>
+		<opciona>9</opciona>
+		<opcionb>8</opcionb>
+		<opcionc>7</opcionc>
+		<opcion_correcta>8</opcion_correcta>
+		<opciond>6</opciond>
+	</ROW>
+
+	<ROW>
+		<id>102</id>
+		<categoria>2</categoria>
+		<descripcion>¿Cuál es el número anterior a 1000?</descripcion>
+		<nivel>1</nivel>
+		<opciona>1001</opciona>
+		<opcionb>990</opcionb>
+		<opcionc>1000</opcionc>
+		<opcion_correcta>999</opcion_correcta>
+		<opciond>999</opciond>
+	</ROW>
+
+	<ROW>
+		<id>103</id>
+		<categoria>2</categoria>
+		<descripcion>¿Cómo escribirías en cifras seiscientos veinticinco mil doscientos dos?</descripcion>
+		<nivel>1</nivel>
+		<opciona>6025202</opciona>
+		<opcionb>625202</opcionb>
+		<opcionc>60025202</opcionc>
+		<opcion_correcta>625202</opcion_correcta>
+		<opciond>602512202</opciond>
+	</ROW>
+
+	<ROW>
+		<id>104</id>
+		<categoria>2</categoria>
+		<descripcion>¿Cómo se llama el polígono de siete lados?</descripcion>
+		<nivel>1</nivel>
+		<opciona>Septágono</opciona>
+		<opcionb>Octágono</opcionb>
+		<opcionc>Heptágono</opcionc>
+		<opcion_correcta>Heptágono</opcion_correcta>
+		<opciond>Hexágono</opciond>
+	</ROW>
+
+	<ROW>
+		<id>105</id>
+		<categoria>2</categoria>
+		<descripcion>¿Qué hora es si la aguja pequeña y la grande del reloj están señalando al 3?</descripcion>
+		<nivel>1</nivel>
+		<opciona>Las tres en punto</opciona>
+		<opcionb>Las tres y cuarto</opcionb>
+		<opcionc>Las tres y media</opcionc>
+		<opcion_correcta>Las tres y cuarto</opcion_correcta>
+		<opciond>Las tres y tres</opciond>
+	</ROW>
+
+	<ROW>
+		<id>106</id>
+		<categoria>2</categoria>
+		<descripcion>¿Cuál es el resultado de multiplicar 7x9?</descripcion>
+		<nivel>1</nivel>
+		<opciona>63</opciona>
+		<opcionb>72</opcionb>
+		<opcionc>58</opcionc>
+		<opcion_correcta>63</opcion_correcta>
+		<opciond>83</opciond>
+	</ROW>
+
+	<ROW>
+		<id>107</id>
+		<categoria>2</categoria>
+		<descripcion>¿Cuánto es  1.92 ÷ 3?</descripcion>
+		<nivel>2</nivel>
+		<opciona>0.64</opciona>
+		<opcionb>0.10</opcionb>
+		<opcionc>0.11</opcionc>
+		<opcion_correcta>0.64</opcion_correcta>
+		<opciond>1</opciond>
+	</ROW>
+
+	<ROW>
+		<id>108</id>
+		<categoria>2</categoria>
+		<descripcion>¿Cómo escribirías la fracción cinco séptimos?</descripcion>
+		<nivel>2</nivel>
+		<opciona>5/77</opciona>
+		<opcionb>5/6</opcionb>
+		<opcionc>7/5</opcionc>
+		<opcion_correcta>5/7</opcion_correcta>
+		<opciond>5/7</opciond>
+	</ROW>
+
+	<ROW>
+		<id>109</id>
+		<categoria>2</categoria>
+		<descripcion>¿Cuántos minutos tiene una hora?</descripcion>
+		<nivel>2</nivel>
+		<opciona>50</opciona>
+		<opcionb>30</opcionb>
+		<opcionc>60</opcionc>
+		<opcion_correcta>60</opcion_correcta>
+		<opciond>24</opciond>
+	</ROW>
+
+	<ROW>
+		<id>110</id>
+		<categoria>2</categoria>
+		<descripcion>¿Cuál es resultado de esta operación? (6 x 8 - 4)</descripcion>
+		<nivel>2</nivel>
+		<opciona>54</opciona>
+		<opcionb>44</opcionb>
+		<opcionc>40</opcionc>
+		<opcion_correcta>44</opcion_correcta>
+		<opciond>50</opciond>
+	</ROW>
+
+	<ROW>
+		<id>111</id>
+		<categoria>2</categoria>
+		<descripcion>¿Cuántos meses tiene un trimestre?</descripcion>
+		<nivel>2</nivel>
+		<opciona>6 meses</opciona>
+		<opcionb>12 meses</opcionb>
+		<opcionc>3 meses</opcionc>
+		<opcion_correcta>3 meses</opcion_correcta>
+		<opciond>4 meses</opciond>
+	</ROW>
+
+	<ROW>
+		<id>112</id>
+		<categoria>2</categoria>
+		<descripcion>¿Cuál es el valor de X? X=1203+806+409</descripcion>
+		<nivel>2</nivel>
+		<opciona>2308</opciona>
+		<opcionb>2419</opcionb>
+		<opcionc>2420</opcionc>
+		<opcion_correcta>2418</opcion_correcta>
+		<opciond>2418</opciond>
+	</ROW>
+
+	<ROW>
+		<id>113</id>
+		<categoria>2</categoria>
+		<descripcion>¿Cuál es resultado de esta operación? (100x49)</descripcion>
+		<nivel>2</nivel>
+		<opciona>4900</opciona>
+		<opcionb>490</opcionb>
+		<opcionc>49</opcionc>
+		<opcion_correcta>4900</opcion_correcta>
+		<opciond>409</opciond>
+	</ROW>
+
+	<ROW>
+		<id>114</id>
+		<categoria>2</categoria>
+		<descripcion>¿Qué dos letras simbolizan un milímetro?</descripcion>
+		<nivel>2</nivel>
+		<opciona>lt</opciona>
+		<opcionb>mm</opcionb>
+		<opcionc>cm</opcionc>
+		<opcion_correcta>mm</opcion_correcta>
+		<opciond>ml</opciond>
+	</ROW>
+
+	<ROW>
+		<id>115</id>
+		<categoria>2</categoria>
+		<descripcion>¿Cuántos grados mide un ángulo recto?</descripcion>
+		<nivel>2</nivel>
+		<opciona>180</opciona>
+		<opcionb>25</opcionb>
+		<opcionc>90</opcionc>
+		<opcion_correcta>90</opcion_correcta>
+		<opciond>45</opciond>
+	</ROW>
+
+	<ROW>
+		<id>116</id>
+		<categoria>2</categoria>
+		<descripcion>¿Cuánto es la cuarta parte de la tercera parte?</descripcion>
+		<nivel>2</nivel>
+		<opciona>1/12</opciona>
+		<opcionb>3/4</opcionb>
+		<opcionc>1/7</opcionc>
+		<opcion_correcta>1/12</opcion_correcta>
+		<opciond>4/6</opciond>
+	</ROW>
+
+	<ROW>
+		<id>117</id>
+		<categoria>2</categoria>
+		<descripcion>¿Cuál es la raíz cuadrada de 25?</descripcion>
+		<nivel>2</nivel>
+		<opciona>50</opciona>
+		<opcionb>2</opcionb>
+		<opcionc>5</opcionc>
+		<opcion_correcta>5</opcion_correcta>
+		<opciond>20</opciond>
+	</ROW>
+
+	<ROW>
+		<id>118</id>
+		<categoria>2</categoria>
+		<descripcion>¿Cuál es la raíz cúbica de 27?</descripcion>
+		<nivel>2</nivel>
+		<opciona>6</opciona>
+		<opcionb>3</opcionb>
+		<opcionc>2</opcionc>
+		<opcion_correcta>3</opcion_correcta>
+		<opciond>7</opciond>
+	</ROW>
+
+	<ROW>
+		<id>119</id>
+		<categoria>2</categoria>
+		<descripcion>¿Cuál es el único número par primo?</descripcion>
+		<nivel>2</nivel>
+		<opciona>4</opciona>
+		<opcionb>8</opcionb>
+		<opcionc>6</opcionc>
+		<opcion_correcta>2</opcion_correcta>
+		<opciond>2</opciond>
+	</ROW>
+
+	<ROW>
+		<id>120</id>
+		<categoria>2</categoria>
+		<descripcion>¿Cuánto es 1234 ÷ 0?</descripcion>
+		<nivel>2</nivel>
+		<opciona>1234</opciona>
+		<opcionb>0</opcionb>
+		<opcionc>1</opcionc>
+		<opcion_correcta>0</opcion_correcta>
+		<opciond>Ninguna</opciond>
+	</ROW>
+
+	<ROW>
+		<id>121</id>
+		<categoria>2</categoria>
+		<descripcion>¿Cuánto es 0 ÷ 0?</descripcion>
+		<nivel>2</nivel>
+		<opciona>0</opciona>
+		<opcionb>Infinito</opcionb>
+		<opcionc>Indeterminado</opcionc>
+		<opcion_correcta>Indeterminado</opcion_correcta>
+		<opciond>Ninguna</opciond>
+	</ROW>
+
+	<ROW>
+		<id>122</id>
+		<categoria>2</categoria>
+		<descripcion>Resuelva la siguiente ecuación: -15+ (-5x) =0</descripcion>
+		<nivel>3</nivel>
+		<opciona>3</opciona>
+		<opcionb>-3</opcionb>
+		<opcionc>0</opcionc>
+		<opcion_correcta>-3</opcion_correcta>
+		<opciond>5</opciond>
+	</ROW>
+
+	<ROW>
+		<id>123</id>
+		<categoria>2</categoria>
+		<descripcion>¿Cuál es el promedio de los primeros 50 números naturales?</descripcion>
+		<nivel>3</nivel>
+		<opciona>35.7</opciona>
+		<opcionb>30</opcionb>
+		<opcionc>25.5</opcionc>
+		<opcion_correcta>25.5</opcion_correcta>
+		<opciond>50</opciond>
+	</ROW>
+
+	<ROW>
+		<id>124</id>
+		<categoria>2</categoria>
+		<descripcion>¿Cuál es el coseno de cero?</descripcion>
+		<nivel>3</nivel>
+		<opciona>Pi</opciona>
+		<opcionb>90</opcionb>
+		<opcionc>0</opcionc>
+		<opcion_correcta>1</opcion_correcta>
+		<opciond>1</opciond>
+	</ROW>
+
+	<ROW>
+		<id>125</id>
+		<categoria>2</categoria>
+		<descripcion>¿Quién es el científico que nació el día de Pi?</descripcion>
+		<nivel>3</nivel>
+		<opciona>Albert Einstein</opciona>
+		<opcionb>Pitágoras</opcionb>
+		<opcionc>Euclides</opcionc>
+		<opcion_correcta>Albert Einstein</opcion_correcta>
+		<opciond>Arquímedes</opciond>
+	</ROW>
+
+	<ROW>
+		<id>126</id>
+		<categoria>2</categoria>
+		<descripcion>¿Cuántos ceros tiene un Cuatrillón?</descripcion>
+		<nivel>3</nivel>
+		<opciona>20</opciona>
+		<opcionb>24</opcionb>
+		<opcionc>30</opcionc>
+		<opcion_correcta>24</opcion_correcta>
+		<opciond>40</opciond>
+	</ROW>
+
+	<ROW>
+		<id>127</id>
+		<categoria>2</categoria>
+		<descripcion>¿Cuál es el resultado de 334×7+335?</descripcion>
+		<nivel>3</nivel>
+		<opciona>2677</opciona>
+		<opcionb>2700</opcionb>
+		<opcionc>2670</opcionc>
+		<opcion_correcta>2673</opcion_correcta>
+		<opciond>2673</opciond>
+	</ROW>
+
+	<ROW>
+		<id>128</id>
+		<categoria>2</categoria>
+		<descripcion>¿Cuántas aristas tiene un octaedro?</descripcion>
+		<nivel>3</nivel>
+		<opciona>8</opciona>
+		<opcionb>12</opcionb>
+		<opcionc>6</opcionc>
+		<opcion_correcta>12</opcion_correcta>
+		<opciond>88</opciond>
+	</ROW>
+
+	<ROW>
+		<id>129</id>
+		<categoria>2</categoria>
+		<descripcion>¿Cuál es la probabilidad de que salga el número 3 al lanzar un dado?</descripcion>
+		<nivel>3</nivel>
+		<opciona>3</opciona>
+		<opcionb>1/3</opcionb>
+		<opcionc>1/6</opcionc>
+		<opcion_correcta>1/6</opcion_correcta>
+		<opciond>1/2</opciond>
+	</ROW>
+
+	<ROW>
+		<id>130</id>
+		<categoria>2</categoria>
+		<descripcion>¿Cuál es la operación inversa a la logaritmación?</descripcion>
+		<nivel>3</nivel>
+		<opciona>Antilogaritmo</opciona>
+		<opcionb>Potenciación</opcionb>
+		<opcionc>Exponenciales</opcionc>
+		<opcion_correcta>Potenciación</opcion_correcta>
+		<opciond>Alogaritmación</opciond>
+	</ROW>
+
+	<ROW>
+		<id>131</id>
+		<categoria>2</categoria>
+		<descripcion>¿Cómo se llama a un poliedro de 20 caras?</descripcion>
+		<nivel>3</nivel>
+		<opciona>Tetradecaedro</opciona>
+		<opcionb>Dodecaedro</opcionb>
+		<opcionc>Icosaedro</opcionc>
+		<opcion_correcta>Icosaedro</opcion_correcta>
+		<opciond>Apeiroedro</opciond>
+	</ROW>
+
+	<ROW>
+		<id>132</id>
+		<categoria>2</categoria>
+		<descripcion>¿Cuántas veces se puede restar 1 a la cifra 1111?</descripcion>
+		<nivel>3</nivel>
+		<opciona>1111</opciona>
+		<opcionb>1</opcionb>
+		<opcionc>1110</opcionc>
+		<opcion_correcta>1</opcion_correcta>
+		<opciond>111</opciond>
+	</ROW>
+
+	<ROW>
+		<id>133</id>
+		<categoria>2</categoria>
+		<descripcion>¿Quién fue la primera mujer matemática?</descripcion>
+		<nivel>3</nivel>
+		<opciona>Diana</opciona>
+		<opcionb>Rosalind Franklin</opcionb>
+		<opcionc>Marie Curie</opcionc>
+		<opcion_correcta>Teano</opcion_correcta>
+		<opciond>Teano</opciond>
+	</ROW>
+
+	<ROW>
+		<id>134</id>
+		<categoria>2</categoria>
+		<descripcion>¿Cuál es el resultado de la siguiente operación: 8/2(2+2)?</descripcion>
+		<nivel>3</nivel>
+		<opciona>4</opciona>
+		<opcionb>16</opcionb>
+		<opcionc>8</opcionc>
+		<opcion_correcta>16</opcion_correcta>
+		<opciond>1</opciond>
+	</ROW>
+
+	<ROW>
+		<id>135</id>
+		<categoria>2</categoria>
+		<descripcion>¿Qué letra es la siguiente en la secuencia U-D-T-C-C-S-S-O-N-?</descripcion>
+		<nivel>3</nivel>
+		<opciona>D</opciona>
+		<opcionb>S</opcionb>
+		<opcionc>O</opcionc>
+		<opcion_correcta>D</opcion_correcta>
+		<opciond>N</opciond>
+	</ROW>
+
+	<ROW>
+		<id>136</id>
+		<categoria>2</categoria>
+		<descripcion>Si 10 + x es igual a 5 más 10, ¿cuál es el valor de 2x?</descripcion>
+		<nivel>3</nivel>
+		<opciona>-5</opciona>
+		<opcionb>5</opcionb>
+		<opcionc>10</opcionc>
+		<opcion_correcta>10</opcion_correcta>
+		<opciond>25</opciond>
+	</ROW>
+
+	<ROW>
+		<id>137</id>
+		<categoria>3</categoria>
+		<descripcion>¿Cómo se llama el perro de Mickey Mouse? </descripcion>
+		<nivel>1</nivel>
+		<opciona>Daisy</opciona>
+		<opcionb>Pluto</opcionb>
+		<opcionc>Donald</opcionc>
+		<opcion_correcta>Pluto</opcion_correcta>
+		<opciond>Goofy</opciond>
+	</ROW>
+
+	<ROW>
+		<id>138</id>
+		<categoria>3</categoria>
+		<descripcion>En Buscando a Nemo, ¿Cómo se llama el pez azul con memoria a corto plazo? </descripcion>
+		<nivel>1</nivel>
+		<opciona>Merlin</opciona>
+		<opcionb>Coral</opcionb>
+		<opcionc>Dory</opcionc>
+		<opcion_correcta>Dory</opcion_correcta>
+		<opciond>Darla</opciond>
+	</ROW>
+
+	<ROW>
+		<id>139</id>
+		<categoria>3</categoria>
+		<descripcion>¿Qué forma tiene la casa de Bob Esponja? </descripcion>
+		<nivel>1</nivel>
+		<opciona>Manzana</opciona>
+		<opcionb>Piña</opcionb>
+		<opcionc>Pepino</opcionc>
+		<opcion_correcta>Piña</opcion_correcta>
+		<opciond>Roca</opciond>
+	</ROW>
+
+	<ROW>
+		<id>140</id>
+		<categoria>3</categoria>
+		<descripcion>En los Simpsons, ¿Cuántos hijos tiene Marge y Homero?</descripcion>
+		<nivel>1</nivel>
+		<opciona>3</opciona>
+		<opcionb>2</opcionb>
+		<opcionc>4</opcionc>
+		<opcion_correcta>3</opcion_correcta>
+		<opciond>1</opciond>
+	</ROW>
+
+	<ROW>
+		<id>141</id>
+		<categoria>3</categoria>
+		<descripcion>¿Cómo se llama el vaquero en Toy story?</descripcion>
+		<nivel>1</nivel>
+		<opciona>Woody</opciona>
+		<opcionb>Buzz</opcionb>
+		<opcionc>Rex</opcionc>
+		<opcion_correcta>Woody</opcion_correcta>
+		<opciond>Andy</opciond>
+	</ROW>
+
+	<ROW>
+		<id>142</id>
+		<categoria>3</categoria>
+		<descripcion>¿Cómo se llama el hermano de Phineas?</descripcion>
+		<nivel>1</nivel>
+		<opciona>Linda</opciona>
+		<opcionb>Perry</opcionb>
+		<opcionc>Jeremy</opcionc>
+		<opcion_correcta>Ferb</opcion_correcta>
+		<opciond>Ferb</opciond>
+	</ROW>
+
+	<ROW>
+		<id>143</id>
+		<categoria>3</categoria>
+		<descripcion>¿Cómo se llama el hermano menor de Mario Bros?</descripcion>
+		<nivel>1</nivel>
+		<opciona>Road</opciona>
+		<opcionb>King</opcionb>
+		<opcionc>Luigi</opcionc>
+		<opcion_correcta>Luigi</opcion_correcta>
+		<opciond>Wario</opciond>
+	</ROW>
+
+	<ROW>
+		<id>144</id>
+		<categoria>3</categoria>
+		<descripcion>¿A qué se dedica Justin Bieber?</descripcion>
+		<nivel>1</nivel>
+		<opciona>Actor</opciona>
+		<opcionb>Cantante</opcionb>
+		<opcionc>Pizzero</opcionc>
+		<opcion_correcta>Cantante</opcion_correcta>
+		<opciond>Comediante</opciond>
+	</ROW>
+
+	<ROW>
+		<id>145</id>
+		<categoria>3</categoria>
+		<descripcion>¿En qué planeta nació Superman?</descripcion>
+		<nivel>1</nivel>
+		<opciona>Tierra</opciona>
+		<opcionb>Colu</opcionb>
+		<opcionc>Warworld</opcionc>
+		<opcion_correcta>Krypton</opcion_correcta>
+		<opciond>Krypton</opciond>
+	</ROW>
+
+	<ROW>
+		<id>146</id>
+		<categoria>3</categoria>
+		<descripcion>¿A qué se dedica AuronPlay?</descripcion>
+		<nivel>1</nivel>
+		<opciona>Actor</opciona>
+		<opcionb>Cantante</opcionb>
+		<opcionc>Youtuber y Streamer</opcionc>
+		<opcion_correcta>Youtuber y Streamer</opcion_correcta>
+		<opciond>Electricista</opciond>
+	</ROW>
+
+	<ROW>
+		<id>147</id>
+		<categoria>3</categoria>
+		<descripcion>¿Cuántos goles convirtió Lionel Messi en el último mundial? </descripcion>
+		<nivel>1</nivel>
+		<opciona>6</opciona>
+		<opcionb>8</opcionb>
+		<opcionc>5</opcionc>
+		<opcion_correcta>7</opcion_correcta>
+		<opciond>7</opciond>
+	</ROW>
+
+	<ROW>
+		<id>148</id>
+		<categoria>3</categoria>
+		<descripcion>¿Cuál es el apodo de Ángel Di María?</descripcion>
+		<nivel>1</nivel>
+		<opciona>El loco</opciona>
+		<opcionb>Fideo</opcionb>
+		<opcionc>El flaco</opcionc>
+		<opcion_correcta>Fideo</opcion_correcta>
+		<opciond>Motorcito</opciond>
+	</ROW>
+
+	<ROW>
+		<id>149</id>
+		<categoria>3</categoria>
+		<descripcion>¿A quién pertenece el tema 'De musica ligera'?</descripcion>
+		<nivel>1</nivel>
+		<opciona>Soda Stereo</opciona>
+		<opcionb>Gustavo Cerati</opcionb>
+		<opcionc>Los piojos</opcionc>
+		<opcion_correcta>Soda Stereo</opcion_correcta>
+		<opciond>Rata blanca</opciond>
+	</ROW>
+
+	<ROW>
+		<id>150</id>
+		<categoria>3</categoria>
+		<descripcion>¿Qué es Dragon ball?</descripcion>
+		<nivel>1</nivel>
+		<opciona>Una novela</opciona>
+		<opcionb>Un documental</opcionb>
+		<opcionc>Un anime</opcionc>
+		<opcion_correcta>Un anime</opcion_correcta>
+		<opciond>Un programa</opciond>
+	</ROW>
+
+	<ROW>
+		<id>151</id>
+		<categoria>3</categoria>
+		<descripcion>¿Cuántas son las esferas del dragón en 'Dragon ball'?</descripcion>
+		<nivel>1</nivel>
+		<opciona>8</opciona>
+		<opcionb>7</opcionb>
+		<opcionc>9</opcionc>
+		<opcion_correcta>7</opcion_correcta>
+		<opciond>6</opciond>
+	</ROW>
+
+	<ROW>
+		<id>152</id>
+		<categoria>3</categoria>
+		<descripcion>¿Cómo se llama el ayudante de Iron Man?</descripcion>
+		<nivel>2</nivel>
+		<opciona>Jarvis</opciona>
+		<opcionb>Jim</opcionb>
+		<opcionc>Phil</opcionc>
+		<opcion_correcta>Jarvis</opcion_correcta>
+		<opciond>Gabriel</opciond>
+	</ROW>
+
+	<ROW>
+		<id>153</id>
+		<categoria>3</categoria>
+		<descripcion>¿Qué enemigo de Batman se viste como payaso?</descripcion>
+		<nivel>2</nivel>
+		<opciona>El pinguino</opciona>
+		<opcionb>El Guason</opcionb>
+		<opcionc>Acertijo</opcionc>
+		<opcion_correcta>El Guason</opcion_correcta>
+		<opciond>Dr Frio</opciond>
+	</ROW>
+
+	<ROW>
+		<id>154</id>
+		<categoria>3</categoria>
+		<descripcion>¿Cuántas películas componen Harry Potter?</descripcion>
+		<nivel>2</nivel>
+		<opciona>7</opciona>
+		<opcionb>10</opcionb>
+		<opcionc>5</opcionc>
+		<opcion_correcta>8</opcion_correcta>
+		<opciond>8</opciond>
+	</ROW>
+
+	<ROW>
+		<id>155</id>
+		<categoria>3</categoria>
+		<descripcion>¿Cómo se llama el juguete que es un cubo de colores el cual gira sus partes?</descripcion>
+		<nivel>2</nivel>
+		<opciona>Snake</opciona>
+		<opcionb>Monopoly</opcionb>
+		<opcionc>Rubik</opcionc>
+		<opcion_correcta>Rubik</opcion_correcta>
+		<opciond>Xetrix</opciond>
+	</ROW>
+
+	<ROW>
+		<id>156</id>
+		<categoria>3</categoria>
+		<descripcion>¿Cómo se llama el cangrejo de “La sirenita”?</descripcion>
+		<nivel>2</nivel>
+		<opciona>Eduardo</opciona>
+		<opcionb>Sebastian</opcionb>
+		<opcionc>Thomas</opcionc>
+		<opcion_correcta>Sebastian</opcion_correcta>
+		<opciond>Luciano</opciond>
+	</ROW>
+
+	<ROW>
+		<id>157</id>
+		<categoria>3</categoria>
+		<descripcion>¿Quién es el primer super saiyajin que se convierte en dios?</descripcion>
+		<nivel>2</nivel>
+		<opciona>Gohan</opciona>
+		<opcionb>Goku</opcionb>
+		<opcionc>Krillin</opcionc>
+		<opcion_correcta>Goku</opcion_correcta>
+		<opciond>Vegeta</opciond>
+	</ROW>
+
+	<ROW>
+		<id>158</id>
+		<categoria>3</categoria>
+		<descripcion>¿Cómo se llama el juego en el que se encajan piezas de colores?</descripcion>
+		<nivel>2</nivel>
+		<opciona>Snake</opciona>
+		<opcionb>Valorant</opcionb>
+		<opcionc>Candy Crush</opcionc>
+		<opcion_correcta>Tetris</opcion_correcta>
+		<opciond>Tetris</opciond>
+	</ROW>
+
+	<ROW>
+		<id>159</id>
+		<categoria>3</categoria>
+		<descripcion>¿Qué es Assassin's Creed?</descripcion>
+		<nivel>2</nivel>
+		<opciona>Un videojuego</opciona>
+		<opcionb>Una revista</opcionb>
+		<opcionc>Un virus</opcionc>
+		<opcion_correcta>Un videojuego</opcion_correcta>
+		<opciond>Una tienda</opciond>
+	</ROW>
+
+	<ROW>
+		<id>160</id>
+		<categoria>3</categoria>
+		<descripcion>¿Quién es la primera mujer latino/hispana en ser nominada a los Grammy?</descripcion>
+		<nivel>2</nivel>
+		<opciona>Shakira</opciona>
+		<opcionb>Tini</opcionb>
+		<opcionc>Rosalia</opcionc>
+		<opcion_correcta>Rosalia</opcion_correcta>
+		<opciond>Jennifer Lopez</opciond>
+	</ROW>
+
+	<ROW>
+		<id>161</id>
+		<categoria>3</categoria>
+		<descripcion>¿Cómo se llama el primer hijo de Goku?</descripcion>
+		<nivel>2</nivel>
+		<opciona>Goten</opciona>
+		<opcionb>Gohan</opcionb>
+		<opcionc>Pan</opcionc>
+		<opcion_correcta>Gohan</opcion_correcta>
+		<opciond>Trunks</opciond>
+	</ROW>
+
+	<ROW>
+		<id>162</id>
+		<categoria>3</categoria>
+		<descripcion>¿A qué se dedica Coscu?</descripcion>
+		<nivel>2</nivel>
+		<opciona>Programador</opciona>
+		<opcionb>Viajero</opcionb>
+		<opcionc>Youtuber y Streamer</opcionc>
+		<opcion_correcta>Youtuber y Streamer</opcion_correcta>
+		<opciond>Detective</opciond>
+	</ROW>
+
+	<ROW>
+		<id>163</id>
+		<categoria>3</categoria>
+		<descripcion>¿Cómo se llama el primer gato de los simpsons?</descripcion>
+		<nivel>2</nivel>
+		<opciona>Bola de nieve 2</opciona>
+		<opcionb>Pelusa</opcionb>
+		<opcionc>Coltrane</opcionc>
+		<opcion_correcta>Bola de nieve</opcion_correcta>
+		<opciond>Bola de nieve</opciond>
+	</ROW>
+
+	<ROW>
+		<id>164</id>
+		<categoria>3</categoria>
+		<descripcion>¿Quién canta 'Titi me pregunto'?</descripcion>
+		<nivel>2</nivel>
+		<opciona>Bad Bunny</opciona>
+		<opcionb>J Balvin</opcionb>
+		<opcionc>Duki</opcionc>
+		<opcion_correcta>Bad Bunny</opcion_correcta>
+		<opciond>Camilo</opciond>
+	</ROW>
+
+	<ROW>
+		<id>165</id>
+		<categoria>3</categoria>
+		<descripcion>¿Quién es Thor?</descripcion>
+		<nivel>2</nivel>
+		<opciona>Un Villano</opciona>
+		<opcionb>Un Superheroe</opcionb>
+		<opcionc>Un Detective</opcionc>
+		<opcion_correcta>Un Superheroe</opcion_correcta>
+		<opciond>Un Humano</opciond>
+	</ROW>
+
+	<ROW>
+		<id>166</id>
+		<categoria>3</categoria>
+		<descripcion>¿Cuál de estas plataformas no usa hashtags?</descripcion>
+		<nivel>2</nivel>
+		<opciona>Instagram</opciona>
+		<opcionb>Facebook</opcionb>
+		<opcionc>Snapchat</opcionc>
+		<opcion_correcta>Snapchat</opcion_correcta>
+		<opciond>Twitter</opciond>
+	</ROW>
+
+	<ROW>
+		<id>167</id>
+		<categoria>3</categoria>
+		<descripcion>¿Qué juego hizo famoso el genero 'Battle royale'?</descripcion>
+		<nivel>3</nivel>
+		<opciona>Day Z</opciona>
+		<opcionb>Call of Duty</opcionb>
+		<opcionc>Counter Strike</opcionc>
+		<opcion_correcta>Fornite</opcion_correcta>
+		<opciond>Fornite</opciond>
+	</ROW>
+
+	<ROW>
+		<id>168</id>
+		<categoria>3</categoria>
+		<descripcion>¿Quién ganó la copa mundial del 2014?</descripcion>
+		<nivel>3</nivel>
+		<opciona>Francia</opciona>
+		<opcionb>Argentina</opcionb>
+		<opcionc>Alemania</opcionc>
+		<opcion_correcta>Alemania</opcion_correcta>
+		<opciond>Brasil</opciond>
+	</ROW>
+
+	<ROW>
+		<id>170</id>
+		<categoria>3</categoria>
+		<descripcion>¿En qué año se estrenó ‘Stranger Things’?</descripcion>
+		<nivel>3</nivel>
+		<opciona>2016</opciona>
+		<opcionb>2017</opcionb>
+		<opcionc>2020</opcionc>
+		<opcion_correcta>2016</opcion_correcta>
+		<opciond>2018</opciond>
+	</ROW>
+
+	<ROW>
+		<id>171</id>
+		<categoria>3</categoria>
+		<descripcion>¿Cómo se llamaba el papá de Simba en “El Rey León”?</descripcion>
+		<nivel>3</nivel>
+		<opciona>Nala</opciona>
+		<opcionb>Sarabi</opcionb>
+		<opcionc>Uru</opcionc>
+		<opcion_correcta>Mufasa</opcion_correcta>
+		<opciond>Mufasa</opciond>
+	</ROW>
+
+	<ROW>
+		<id>172</id>
+		<categoria>3</categoria>
+		<descripcion>¿En qué pais nació Dua lipa?</descripcion>
+		<nivel>3</nivel>
+		<opciona>Inglaterra</opciona>
+		<opcionb>Italia</opcionb>
+		<opcionc>EE.UU.</opcionc>
+		<opcion_correcta>Inglaterra</opcion_correcta>
+		<opciond>Alemania</opciond>
+	</ROW>
+
+	<ROW>
+		<id>173</id>
+		<categoria>3</categoria>
+		<descripcion>¿Cuántas sagas comprende la película 'El señor de los anillos'?</descripcion>
+		<nivel>3</nivel>
+		<opciona>5</opciona>
+		<opcionb>3</opcionb>
+		<opcionc>8</opcionc>
+		<opcion_correcta>3</opcion_correcta>
+		<opciond>2</opciond>
+	</ROW>
+
+	<ROW>
+		<id>174</id>
+		<categoria>3</categoria>
+		<descripcion>¿Cuántas gemas del infinito hay en el universo de Marvel?</descripcion>
+		<nivel>3</nivel>
+		<opciona>3</opciona>
+		<opcionb>5</opcionb>
+		<opcionc>6</opcionc>
+		<opcion_correcta>6</opcion_correcta>
+		<opciond>2</opciond>
+	</ROW>
+
+	<ROW>
+		<id>175</id>
+		<categoria>3</categoria>
+		<descripcion>¿Qué banda pertenece a los 90's?</descripcion>
+		<nivel>3</nivel>
+		<opciona>One direction</opciona>
+		<opcionb>Backstreet boys</opcionb>
+		<opcionc>BTS</opcionc>
+		<opcion_correcta>Backstreet boys</opcion_correcta>
+		<opciond>Jonas Brothers</opciond>
+	</ROW>
+
+	<ROW>
+		<id>176</id>
+		<categoria>3</categoria>
+		<descripcion>¿Qué película fue nominada por mejores efectos especiales en los Oscar 2023?</descripcion>
+		<nivel>3</nivel>
+		<opciona>Avatar 2</opciona>
+		<opcionb>Rey Leon</opcionb>
+		<opcionc>Bailar con alguien</opcionc>
+		<opcion_correcta>Avatar 2</opcion_correcta>
+		<opciond>Gato con botas</opciond>
+	</ROW>
+
+	<ROW>
+		<id>177</id>
+		<categoria>3</categoria>
+		<descripcion>¿Qué película no ganó el Oscar?</descripcion>
+		<nivel>3</nivel>
+		<opciona>Memorias de África</opciona>
+		<opcionb>Roma</opcionb>
+		<opcionc>Parasito</opcionc>
+		<opcion_correcta>Shrek</opcion_correcta>
+		<opciond>Shrek</opciond>
+	</ROW>
+
+	<ROW>
+		<id>178</id>
+		<categoria>3</categoria>
+		<descripcion>¿Cómo se llama el perro de la familia Simpsons?</descripcion>
+		<nivel>3</nivel>
+		<opciona>Simurdiera</opciona>
+		<opcionb>Ayudante de santa</opcionb>
+		<opcionc>Poochie</opcionc>
+		<opcion_correcta>Ayudante de santa</opcion_correcta>
+		<opciond>Procer</opciond>
+	</ROW>
+
+	<ROW>
+		<id>179</id>
+		<categoria>3</categoria>
+		<descripcion>¿Cómo se llama el  diseñador del juego MARIO BROS?</descripcion>
+		<nivel>3</nivel>
+		<opciona>John Romero</opciona>
+		<opcionb>Shigeru Miyamoto</opcionb>
+		<opcionc>Fumito Ueda</opcionc>
+		<opcion_correcta>Shigeru Miyamoto</opcion_correcta>
+		<opciond>Ed Boon</opciond>
+	</ROW>
+
+	<ROW>
+		<id>180</id>
+		<categoria>3</categoria>
+		<descripcion>¿Qué tipo de contenido hace el youtuber Dross Rotzank?</descripcion>
+		<nivel>3</nivel>
+		<opciona>Comedia</opciona>
+		<opcionb>Misterio</opcionb>
+		<opcionc>Beauty</opcionc>
+		<opcion_correcta>Misterio</opcion_correcta>
+		<opciond>Parodias</opciond>
+	</ROW>
+
+	<ROW>
+		<id>181</id>
+		<categoria>3</categoria>
+		<descripcion>¿Cuál fue la serie de Netflix más vista en 2020?</descripcion>
+		<nivel>3</nivel>
+		<opciona>Friends</opciona>
+		<opcionb>Stranger Things</opcionb>
+		<opcionc>La Casa de Papel</opcionc>
+		<opcion_correcta>La Casa de Papel</opcion_correcta>
+		<opciond>Gambito de dama</opciond>
+	</ROW>
+
+	<ROW>
+		<id>182</id>
+		<categoria>4</categoria>
+		<descripcion>¿Cuántos continentes hay?</descripcion>
+		<nivel>1</nivel>
+		<opciona>5</opciona>
+		<opcionb>3</opcionb>
+		<opcionc>6</opcionc>
+		<opcion_correcta>6</opcion_correcta>
+		<opciond>7</opciond>
+	</ROW>
+
+	<ROW>
+		<id>183</id>
+		<categoria>4</categoria>
+		<descripcion>¿Cuál es el país más grande del mundo?</descripcion>
+		<nivel>1</nivel>
+		<opciona>Rusia</opciona>
+		<opcionb>Canada</opcionb>
+		<opcionc>EEUU</opcionc>
+		<opcion_correcta>Rusia</opcion_correcta>
+		<opciond>Brasil</opciond>
+	</ROW>
+
+	<ROW>
+		<id>184</id>
+		<categoria>4</categoria>
+		<descripcion>¿Cuántos océanos hay?</descripcion>
+		<nivel>1</nivel>
+		<opciona>5</opciona>
+		<opcionb>7</opcionb>
+		<opcionc>3</opcionc>
+		<opcion_correcta>5</opcion_correcta>
+		<opciond>4</opciond>
+	</ROW>
+
+	<ROW>
+		<id>185</id>
+		<categoria>4</categoria>
+		<descripcion>¿Cuál es la lengua más hablada del mundo?</descripcion>
+		<nivel>1</nivel>
+		<opciona>Español</opciona>
+		<opcionb>Mandarín</opcionb>
+		<opcionc>Inglés</opcionc>
+		<opcion_correcta>Inglés</opcion_correcta>
+		<opciond>Portugués</opciond>
+	</ROW>
+
+	<ROW>
+		<id>186</id>
+		<categoria>4</categoria>
+		<descripcion>¿Cuál es el desierto más grande del mundo?</descripcion>
+		<nivel>1</nivel>
+		<opciona>Desierto Sahara</opciona>
+		<opcionb>Desierto Arabia</opcionb>
+		<opcionc>Desierto Gobi</opcionc>
+		<opcion_correcta>Desierto Sahara</opcion_correcta>
+		<opciond>Desierto Australia</opciond>
+	</ROW>
+
+	<ROW>
+		<id>187</id>
+		<categoria>4</categoria>
+		<descripcion>¿Cuál es el continente más grande?</descripcion>
+		<nivel>1</nivel>
+		<opciona>Oceania</opciona>
+		<opcionb>África</opcionb>
+		<opcionc>America</opcionc>
+		<opcion_correcta>Asia</opcion_correcta>
+		<opciond>Asia</opciond>
+	</ROW>
+
+	<ROW>
+		<id>188</id>
+		<categoria>4</categoria>
+		<descripcion>¿Dónde se inventó la pizza?</descripcion>
+		<nivel>1</nivel>
+		<opciona>Roma</opciona>
+		<opcionb>Napoles</opcionb>
+		<opcionc>Florencia</opcionc>
+		<opcion_correcta>Napoles</opcion_correcta>
+		<opciond>Milan</opciond>
+	</ROW>
+
+	<ROW>
+		<id>189</id>
+		<categoria>4</categoria>
+		<descripcion>¿Qué continente se encuentra en los 4 hemisferios?</descripcion>
+		<nivel>1</nivel>
+		<opciona>Asia</opciona>
+		<opcionb>América</opcionb>
+		<opcionc>Europa</opcionc>
+		<opcion_correcta>África</opcion_correcta>
+		<opciond>África</opciond>
+	</ROW>
+
+	<ROW>
+		<id>190</id>
+		<categoria>4</categoria>
+		<descripcion>¿Cuál es la capital de Uruguay?</descripcion>
+		<nivel>1</nivel>
+		<opciona>Punta del Este</opciona>
+		<opcionb>Salto</opcionb>
+		<opcionc>Montevideo</opcionc>
+		<opcion_correcta>Montevideo</opcion_correcta>
+		<opciond>Colonia</opciond>
+	</ROW>
+
+	<ROW>
+		<id>191</id>
+		<categoria>4</categoria>
+		<descripcion>¿Qué país se parece a una bota?</descripcion>
+		<nivel>1</nivel>
+		<opciona>España</opciona>
+		<opcionb>Chile</opcionb>
+		<opcionc>Mexico</opcionc>
+		<opcion_correcta>Italia</opcion_correcta>
+		<opciond>Italia</opciond>
+	</ROW>
+
+	<ROW>
+		<id>192</id>
+		<categoria>4</categoria>
+		<descripcion>¿Cuál es el idioma oficial de Brasil?</descripcion>
+		<nivel>1</nivel>
+		<opciona>Español</opciona>
+		<opcionb>Portugués</opcionb>
+		<opcionc>Inglés</opcionc>
+		<opcion_correcta>Portugués</opcion_correcta>
+		<opciond>Francés</opciond>
+	</ROW>
+
+	<ROW>
+		<id>193</id>
+		<categoria>4</categoria>
+		<descripcion>¿Qué pais tiene una hoja roja en su bandera?</descripcion>
+		<nivel>1</nivel>
+		<opciona>River</opciona>
+		<opcionb>Canada</opcionb>
+		<opcionc>Peru</opcionc>
+		<opcion_correcta>Canada</opcion_correcta>
+		<opciond>Polonia</opciond>
+	</ROW>
+
+	<ROW>
+		<id>194</id>
+		<categoria>4</categoria>
+		<descripcion>¿En qué continente queda Perú?</descripcion>
+		<nivel>1</nivel>
+		<opciona>América</opciona>
+		<opcionb>África</opcionb>
+		<opcionc>Europa</opcionc>
+		<opcion_correcta>América</opcion_correcta>
+		<opciond>Asia</opciond>
+	</ROW>
+
+	<ROW>
+		<id>195</id>
+		<categoria>4</categoria>
+		<descripcion>¿Cuál es el idioma predominante en América?</descripcion>
+		<nivel>1</nivel>
+		<opciona>Inglés</opciona>
+		<opcionb>Italiano</opcionb>
+		<opcionc>Portugués</opcionc>
+		<opcion_correcta>Español</opcion_correcta>
+		<opciond>Español</opciond>
+	</ROW>
+
+	<ROW>
+		<id>196</id>
+		<categoria>4</categoria>
+		<descripcion>¿Cuál de los siguientes países no es de Europa?</descripcion>
+		<nivel>1</nivel>
+		<opciona>Moldavia</opciona>
+		<opcionb>Polonia</opcionb>
+		<opcionc>Catar</opcionc>
+		<opcion_correcta>Catar</opcion_correcta>
+		<opciond>Italia</opciond>
+	</ROW>
+
+	<ROW>
+		<id>197</id>
+		<categoria>4</categoria>
+		<descripcion>¿Cuál es la montaña más alta del mundo?</descripcion>
+		<nivel>2</nivel>
+		<opciona>Kanchenjunga</opciona>
+		<opcionb>Denali</opcionb>
+		<opcionc>K2</opcionc>
+		<opcion_correcta>Monte Everest</opcion_correcta>
+		<opciond>Monte Everest</opciond>
+	</ROW>
+
+	<ROW>
+		<id>198</id>
+		<categoria>4</categoria>
+		<descripcion>¿Cuál es la ciudad más poblada del mundo?</descripcion>
+		<nivel>2</nivel>
+		<opciona>Moscú</opciona>
+		<opcionb>Ottawa</opcionb>
+		<opcionc>Tokio</opcionc>
+		<opcion_correcta>Tokio</opcion_correcta>
+		<opciond>EE.UU.</opciond>
+	</ROW>
+
+	<ROW>
+		<id>199</id>
+		<categoria>4</categoria>
+		<descripcion>¿Cuáles son los elementos básicos de un mapa?</descripcion>
+		<nivel>2</nivel>
+		<opciona>Escala</opciona>
+		<opcionb>Todas las anteriores</opcionb>
+		<opcionc>Coordenadas</opcionc>
+		<opcion_correcta>Todas las anteriores</opcion_correcta>
+		<opciond>Simbología</opciond>
+	</ROW>
+
+	<ROW>
+		<id>200</id>
+		<categoria>4</categoria>
+		<descripcion>¿Qué país se encuentra entre dos continentes?</descripcion>
+		<nivel>2</nivel>
+		<opciona>Tokio</opciona>
+		<opcionb>India</opcionb>
+		<opcionc>Venezuela</opcionc>
+		<opcion_correcta>Turquia</opcion_correcta>
+		<opciond>Turquia</opciond>
+	</ROW>
+
+	<ROW>
+		<id>201</id>
+		<categoria>4</categoria>
+		<descripcion>¿Cuál es la cordillera de montañas más larga del mundo?</descripcion>
+		<nivel>2</nivel>
+		<opciona>Montañas Rocosas</opciona>
+		<opcionb>Sierras Madres</opcionb>
+		<opcionc>Cordillera de los Andes</opcionc>
+		<opcion_correcta>Cordillera de los Andes</opcion_correcta>
+		<opciond>Apalaches</opciond>
+	</ROW>
+
+	<ROW>
+		<id>202</id>
+		<categoria>4</categoria>
+		<descripcion>¿Qué fenómeno genera las olas?</descripcion>
+		<nivel>2</nivel>
+		<opciona>Arena</opciona>
+		<opcionb>Viento</opcionb>
+		<opcionc>Lluvia</opcionc>
+		<opcion_correcta>Viento</opcion_correcta>
+		<opciond>Peces</opciond>
+	</ROW>
+
+	<ROW>
+		<id>203</id>
+		<categoria>4</categoria>
+		<descripcion>¿Cuántas estrellas tiene la bandera de China?</descripcion>
+		<nivel>2</nivel>
+		<opciona>5</opciona>
+		<opcionb>6</opcionb>
+		<opcionc>0</opcionc>
+		<opcion_correcta>5</opcion_correcta>
+		<opciond>3</opciond>
+	</ROW>
+
+	<ROW>
+		<id>204</id>
+		<categoria>4</categoria>
+		<descripcion>¿Dónde se encuentra el Taj Mahal?</descripcion>
+		<nivel>2</nivel>
+		<opciona>España</opciona>
+		<opcionb>India</opcionb>
+		<opcionc>Turquia</opcionc>
+		<opcion_correcta>India</opcion_correcta>
+		<opciond>Peru</opciond>
+	</ROW>
+
+	<ROW>
+		<id>205</id>
+		<categoria>4</categoria>
+		<descripcion>¿Dónde se encuentra el Machu Picchu?</descripcion>
+		<nivel>2</nivel>
+		<opciona>Peru</opciona>
+		<opcionb>Mexico</opcionb>
+		<opcionc>España</opcionc>
+		<opcion_correcta>Peru</opcion_correcta>
+		<opciond>Suiza</opciond>
+	</ROW>
+
+	<ROW>
+		<id>206</id>
+		<categoria>4</categoria>
+		<descripcion>¿Cuál es el punto más alto en Argentina?</descripcion>
+		<nivel>2</nivel>
+		<opciona>Cerro Ojos del Salado</opciona>
+		<opcionb>Monte Pissis</opcionb>
+		<opcionc>El Aconcagua</opcionc>
+		<opcion_correcta>El Aconcagua</opcion_correcta>
+		<opciond>Cerro Mercedario</opciond>
+	</ROW>
+
+	<ROW>
+		<id>207</id>
+		<categoria>4</categoria>
+		<descripcion>¿Cuál es el océano más grande del mundo en superficie?</descripcion>
+		<nivel>2</nivel>
+		<opciona>Océano Atlántico</opciona>
+		<opcionb>Océano Índico</opcionb>
+		<opcionc>Océano Ártico</opcionc>
+		<opcion_correcta>Océano Pacífico</opcion_correcta>
+		<opciond>Océano Pacífico</opciond>
+	</ROW>
+
+	<ROW>
+		<id>208</id>
+		<categoria>4</categoria>
+		<descripcion>¿En qué país se encuentra la torre de pisa?</descripcion>
+		<nivel>2</nivel>
+		<opciona>Italia</opciona>
+		<opcionb>Francia</opcionb>
+		<opcionc>EE.UU.</opcionc>
+		<opcion_correcta>Italia</opcion_correcta>
+		<opciond>Canada</opciond>
+	</ROW>
+
+	<ROW>
+		<id>209</id>
+		<categoria>4</categoria>
+		<descripcion>¿Cuánto mide de alto el glaciar Perito Moreno?</descripcion>
+		<nivel>2</nivel>
+		<opciona>70 metros</opciona>
+		<opcionb>80 metros</opcionb>
+		<opcionc>60 metros</opcionc>
+		<opcion_correcta>60 metros</opcion_correcta>
+		<opciond>50 metros</opciond>
+	</ROW>
+
+	<ROW>
+		<id>210</id>
+		<categoria>4</categoria>
+		<descripcion>¿Cuál es la capital de Corea Del Sur?</descripcion>
+		<nivel>2</nivel>
+		<opciona>Busan</opciona>
+		<opcionb>Seúl</opcionb>
+		<opcionc>Pyongyang</opcionc>
+		<opcion_correcta>Seúl</opcion_correcta>
+		<opciond>Tokio</opciond>
+	</ROW>
+
+	<ROW>
+		<id>211</id>
+		<categoria>4</categoria>
+		<descripcion>¿Cuál es lago más grande de Argentina?</descripcion>
+		<nivel>2</nivel>
+		<opciona>Lago Viedma</opciona>
+		<opcionb>Lago del Desierto</opcionb>
+		<opcionc>Lago Correntoso</opcionc>
+		<opcion_correcta>Lago Argentino</opcion_correcta>
+		<opciond>Lago Argentino</opciond>
+	</ROW>
+
+	<ROW>
+		<id>212</id>
+		<categoria>4</categoria>
+		<descripcion>¿Dónde se pueden ver las Auroras boreales?</descripcion>
+		<nivel>3</nivel>
+		<opciona>Polonia</opciona>
+		<opcionb>Eslovaquia</opcionb>
+		<opcionc>Suiza</opcionc>
+		<opcion_correcta>Finlandia</opcion_correcta>
+		<opciond>Finlandia</opciond>
+	</ROW>
+
+	<ROW>
+		<id>213</id>
+		<categoria>4</categoria>
+		<descripcion>¿Qué río pasa por más países?</descripcion>
+		<nivel>3</nivel>
+		<opciona>El Danubio</opciona>
+		<opcionb>Rio Amazonas</opcionb>
+		<opcionc>Nilo</opcionc>
+		<opcion_correcta>El Danubio</opcion_correcta>
+		<opciond>Misisipi</opciond>
+	</ROW>
+
+	<ROW>
+		<id>214</id>
+		<categoria>4</categoria>
+		<descripcion>¿Cuántas islas hay en todo el mundo?</descripcion>
+		<nivel>3</nivel>
+		<opciona>Más de 11.000</opciona>
+		<opcionb>Más de 22.000</opcionb>
+		<opcionc>Más de 150.000</opcionc>
+		<opcion_correcta>Más de 11.000</opcion_correcta>
+		<opciond>Más de 5.000</opciond>
+	</ROW>
+
+	<ROW>
+		<id>215</id>
+		<categoria>4</categoria>
+		<descripcion>¿Cuál es la ciudad con menos habitantes del mundo?</descripcion>
+		<nivel>3</nivel>
+		<opciona>El Valle</opciona>
+		<opcionb>Hum</opcionb>
+		<opcionc>Teruel</opcionc>
+		<opcion_correcta>Hum</opcion_correcta>
+		<opciond>Belmopan</opciond>
+	</ROW>
+
+	<ROW>
+		<id>216</id>
+		<categoria>4</categoria>
+		<descripcion>¿Qué río pasa por París?</descripcion>
+		<nivel>3</nivel>
+		<opciona>Tajo</opciona>
+		<opcionb>Po</opcionb>
+		<opcionc>Sena</opcionc>
+		<opcion_correcta>Sena</opcion_correcta>
+		<opciond>Lycus</opciond>
+	</ROW>
+
+	<ROW>
+		<id>217</id>
+		<categoria>4</categoria>
+		<descripcion>¿Qué país cuenta con un mayor número de volcanes?</descripcion>
+		<nivel>3</nivel>
+		<opciona>Indonesia</opciona>
+		<opcionb>Rusia</opcionb>
+		<opcionc>Chile</opcionc>
+		<opcion_correcta>EE.UU.</opcion_correcta>
+		<opciond>EE.UU.</opciond>
+	</ROW>
+
+	<ROW>
+		<id>218</id>
+		<categoria>4</categoria>
+		<descripcion>¿Cuál es la isla más grande del mundo?</descripcion>
+		<nivel>3</nivel>
+		<opciona>Nueva Guinea</opciona>
+		<opcionb>Groenlandia</opcionb>
+		<opcionc>Borneo</opcionc>
+		<opcion_correcta>Groenlandia</opcion_correcta>
+		<opciond>Gran Bretaña</opciond>
+	</ROW>
+
+	<ROW>
+		<id>219</id>
+		<categoria>4</categoria>
+		<descripcion>¿Cuál es la capital de Suiza?</descripcion>
+		<nivel>3</nivel>
+		<opciona>Berna</opciona>
+		<opcionb>Paris</opcionb>
+		<opcionc>Berlin</opcionc>
+		<opcion_correcta>Berna</opcion_correcta>
+		<opciond>Madrid</opciond>
+	</ROW>
+
+	<ROW>
+		<id>220</id>
+		<categoria>4</categoria>
+		<descripcion>¿Cuál es el lago más grande del mundo?</descripcion>
+		<nivel>3</nivel>
+		<opciona>Lago superior</opciona>
+		<opcionb>Lago Victoria</opcionb>
+		<opcionc>Mar Caspio</opcionc>
+		<opcion_correcta>Mar Caspio</opcion_correcta>
+		<opciond>Lago Huron</opciond>
+	</ROW>
+
+	<ROW>
+		<id>221</id>
+		<categoria>4</categoria>
+		<descripcion>¿Cuál es la ciudad más fría del mundo?</descripcion>
+		<nivel>3</nivel>
+		<opciona>Finlandia</opciona>
+		<opcionb>Ottawa</opcionb>
+		<opcionc>Bangkok</opcionc>
+		<opcion_correcta>Oymyakon</opcion_correcta>
+		<opciond>Oymyakon</opciond>
+	</ROW>
+
+	<ROW>
+		<id>222</id>
+		<categoria>4</categoria>
+		<descripcion>¿Cuál es el volcán más alto del mundo?</descripcion>
+		<nivel>3</nivel>
+		<opciona>Nevado Ojos del Salado</opciona>
+		<opcionb>Mauna Kea</opcionb>
+		<opcionc>Teide</opcionc>
+		<opcion_correcta>Nevado Ojos del Salado</opcion_correcta>
+		<opciond>Cotopaxi</opciond>
+	</ROW>
+
+	<ROW>
+		<id>223</id>
+		<categoria>4</categoria>
+		<descripcion>¿Cuáles son los idiomas oficiales de Canadá?</descripcion>
+		<nivel>3</nivel>
+		<opciona>Inglés y Portugués</opciona>
+		<opcionb>Inglés y Francés</opcionb>
+		<opcionc>Inglés y Español</opcionc>
+		<opcion_correcta>Inglés y Francés</opcion_correcta>
+		<opciond>Catalán y Español</opciond>
+	</ROW>
+
+	<ROW>
+		<id>224</id>
+		<categoria>4</categoria>
+		<descripcion>¿Qué porcentaje de agua cubre la Tierra?</descripcion>
+		<nivel>3</nivel>
+		<opciona>90%</opciona>
+		<opcionb>67%</opcionb>
+		<opcionc>71%</opcionc>
+		<opcion_correcta>71%</opcion_correcta>
+		<opciond>80%</opciond>
+	</ROW>
+
+	<ROW>
+		<id>225</id>
+		<categoria>4</categoria>
+		<descripcion>¿En qué año fue el tsunami en Japón?</descripcion>
+		<nivel>3</nivel>
+		<opciona>2010</opciona>
+		<opcionb>2011</opcionb>
+		<opcionc>2012</opcionc>
+		<opcion_correcta>2011</opcion_correcta>
+		<opciond>2013</opciond>
+	</ROW>
+
+	<ROW>
+		<id>226</id>
+		<categoria>4</categoria>
+		<descripcion>¿Cuál es la máxima profundidad del océano?</descripcion>
+		<nivel>3</nivel>
+		<opciona>8486 metros</opciona>
+		<opcionb>11022 metros</opcionb>
+		<opcionc>7258 metros</opcionc>
+		<opcion_correcta>11022 metros</opcion_correcta>
+		<opciond>5450 metros</opciond>
+	</ROW>
+
+	<ROW>
+		<id>227</id>
+		<categoria>2</categoria>
+		<descripcion>¿Cuál es el resultado de la siguiente operación? 1203+806+409</descripcion>
+		<nivel>2</nivel>
+		<opciona>4900</opciona>
+		<opcionb>490</opcionb>
+		<opcionc>49</opcionc>
+		<opcion_correcta>4900</opcion_correcta>
+		<opciond>409</opciond>
+	</ROW>
+
+	<ROW>
+		<id>228</id>
+		<categoria>3</categoria>
+		<descripcion>¿Cómo se llama el mejor amigo de Bob Esponja?</descripcion>
+		<nivel>1</nivel>
+		<opciona>Patricio</opciona>
+		<opcionb>Arenita</opcionb>
+		<opcionc>Calamardo</opcionc>
+		<opcion_correcta>Patricio</opcion_correcta>
+		<opciond>Don Cangrejo</opciond>
+	</ROW>
+
+	<ROW>
+		<id>229</id>
+		<categoria>3</categoria>
+		<descripcion>Pikachu es un Pokémon de tipo:</descripcion>
+		<nivel>1</nivel>
+		<opciona>Tierra</opciona>
+		<opcionb>Fuego</opcionb>
+		<opcionc>Agua</opcionc>
+		<opcion_correcta>Eléctrico</opcion_correcta>
+		<opciond>Eléctrico</opciond>
+	</ROW>
+
+	<ROW>
+		<id>230</id>
+		<categoria>3</categoria>
+		<descripcion>Fortnite es un videojuego de: </descripcion>
+		<nivel>1</nivel>
+		<opciona>Belleza</opciona>
+		<opcionb>Batalla</opcionb>
+		<opcionc>Aventura</opcionc>
+		<opcion_correcta>Batalla</opcion_correcta>
+		<opciond>Misterio</opciond>
+	</ROW>
+
+	<ROW>
+		<id>231</id>
+		<categoria>3</categoria>
+		<descripcion>¿Cómo se llama la tía de Spiderman?</descripcion>
+		<nivel>1</nivel>
+		<opciona>Madeline</opciona>
+		<opcionb>Gwen</opcionb>
+		<opcionc>Mary Jane</opcionc>
+		<opcion_correcta>May</opcion_correcta>
+		<opciond>May</opciond>
+	</ROW>
+
+	<ROW>
+		<id>232</id>
+		<categoria>3</categoria>
+		<descripcion>¿Qué utiliza batman para transportarse?</descripcion>
+		<nivel>1</nivel>
+		<opciona>Batmanmovil</opciona>
+		<opcionb>Colectivo</opcionb>
+		<opcionc>Batmovil</opcionc>
+		<opcion_correcta>Batimovil</opcion_correcta>
+		<opciond>Batimovil</opciond>
+	</ROW>
+
+	<ROW>
+		<id>233</id>
+		<categoria>3</categoria>
+		<descripcion>'¿Quién canta 'Mienteme?'</descripcion>
+		<nivel>2</nivel>
+		<opciona>Lali</opciona>
+		<opcionb>Tini y Maria Becerra</opcionb>
+		<opcionc>Nicki Nicole</opcionc>
+		<opcion_correcta>Tini y Maria Becerra</opcion_correcta>
+		<opciond>Karol G</opciond>
+	</ROW>
+
+	<ROW>
+		<id>234</id>
+		<categoria>3</categoria>
+		<descripcion>¿Qué tipo de pokemon es Charizard?</descripcion>
+		<nivel>2</nivel>
+		<opciona>Tierra</opciona>
+		<opcionb>Fuego</opcionb>
+		<opcionc>Agua</opcionc>
+		<opcion_correcta>Fuego</opcion_correcta>
+		<opciond>Electrico</opciond>
+	</ROW>
+
+	<ROW>
+		<id>235</id>
+		<categoria>3</categoria>
+		<descripcion>¿Qué cantante estuvo saliendo con Selena Gómez?</descripcion>
+		<nivel>2</nivel>
+		<opciona>Justin Bieber</opciona>
+		<opcionb>Harry Styles</opcionb>
+		<opcionc>Robbie Williams</opcionc>
+		<opcion_correcta>Justin Bieber</opcion_correcta>
+		<opciond>Simon Cowell</opciond>
+	</ROW>
+
+	<ROW>
+		<id>236</id>
+		<categoria>3</categoria>
+		<descripcion>¿De qué color es el traje que utiliza Venom? </descripcion>
+		<nivel>2</nivel>
+		<opciona>Negro</opciona>
+		<opcionb>Rojo</opcionb>
+		<opcionc>Verde</opcionc>
+		<opcion_correcta>Negro</opcion_correcta>
+		<opciond>Gris</opciond>
+	</ROW>
+
+	<ROW>
+		<id>237</id>
+		<categoria>3</categoria>
+		<descripcion>¿Cuántos años tiene Charli Grace D'Amelio?</descripcion>
+		<nivel>2</nivel>
+		<opciona>18</opciona>
+		<opcionb>15</opcionb>
+		<opcionc>20</opcionc>
+		<opcion_correcta>18</opcion_correcta>
+		<opciond>19</opciond>
+	</ROW>
+
+	<ROW>
+		<id>238</id>
+		<categoria>3</categoria>
+		<descripcion>¿Cómo se llama la canción donde canta Tini, La Joaqui y Steve Aoki?</descripcion>
+		<nivel>3</nivel>
+		<opciona>Muñecas</opciona>
+		<opcionb>Oye</opcionb>
+		<opcionc>Mañosa</opcionc>
+		<opcion_correcta>Muñecas</opcion_correcta>
+		<opciond>Mission 08</opciond>
+	</ROW>
+
+	<ROW>
+		<id>239</id>
+		<categoria>3</categoria>
+		<descripcion>¿Cuál es la persona con más seguidores en Instagram?</descripcion>
+		<nivel>3</nivel>
+		<opciona>Cristiano Ronaldo</opciona>
+		<opcionb>Lionel Messi</opcionb>
+		<opcionc>Kylie Jenner</opcionc>
+		<opcion_correcta>Cristiano Ronaldo</opcion_correcta>
+		<opciond>Selena Gomez</opciond>
+	</ROW>
+
+	<ROW>
+		<id>240</id>
+		<categoria>3</categoria>
+		<descripcion>¿De qué color es el traje del superheroe 'Flash'?</descripcion>
+		<nivel>3</nivel>
+		<opciona>Amarillo</opciona>
+		<opcionb>Rojo</opcionb>
+		<opcionc>Azul</opcionc>
+		<opcion_correcta>Rojo</opcion_correcta>
+		<opciond>Naranja</opciond>
+	</ROW>
+
+	<ROW>
+		<id>241</id>
+		<categoria>3</categoria>
+		<descripcion>¿Qué porcentaje de la población accede a redes sociales mediante teléfonos móviles?</descripcion>
+		<nivel>3</nivel>
+		<opciona>55%</opciona>
+		<opcionb>86%</opcionb>
+		<opcionc>90%</opcionc>
+		<opcion_correcta>98%</opcion_correcta>
+		<opciond>98%</opciond>
+	</ROW>
+
+	<ROW>
+		<id>242</id>
+		<categoria>3</categoria>
+		<descripcion>¿Quién es el mayor villano del universo de marvel?</descripcion>
+		<nivel>3</nivel>
+		<opciona>Thanos</opciona>
+		<opcionb>Dormammu</opcionb>
+		<opcionc>Red Skull</opcionc>
+		<opcion_correcta>Thanos</opcion_correcta>
+		<opciond>Gorr</opciond>
+	</ROW>
+
+	<ROW>
+		<id>243</id>
+		<categoria>3</categoria>
+		<descripcion>¿Cuál de estos villanos no es enemigo de Batman?</descripcion>
+		<nivel>3</nivel>
+		<opciona>Acertijo</opciona>
+		<opcionb>Pingüino</opcionb>
+		<opcionc>Magneto</opcionc>
+		<opcion_correcta>Magneto</opcion_correcta>
+		<opciond>Guason</opciond>
+	</ROW>
+</DATA>
